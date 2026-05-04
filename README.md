@@ -1,16 +1,69 @@
-## Hi there 👋
+# 👋 Hi, I'm Bekkam Mallishwari
 
-<!--
-**BekkamMallishwari/BekkamMallishwari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd-Year B.Tech IT Student  
+💻 Full-Stack Developer | Exploring AI Solutions  
+🌱 Lifelong Learner | Problem Solver  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+I am a passionate undergraduate student focused on building **scalable web applications** and exploring **AI-driven solutions**.
+
+I believe in **practical skills over theoretical knowledge**, and I continuously work on improving my technical and problem-solving abilities by building real-world projects.
+
+- 🔭 Currently working on: AI-based & full-stack projects  
+- 🌱 Learning: Advanced Backend Development & System Design  
+- 💡 Interests: Human-centered technology, creativity, and innovation  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Languages
+- Python  
+- JavaScript  
+- SQL  
+
+### 🎨 Frontend
+- HTML5  
+- CSS3  
+- Tailwind CSS  
+
+### ⚙️ Backend & Databases
+- FastAPI  
+- Flask  
+- Supabase  
+- Firebase  
+
+### 📚 Tools & Fundamentals
+- Git & GitHub  
+- Data Structures & Algorithms  
+- Object-Oriented Programming  
+- Computer Science Fundamentals  
+
+---
+
+## 📌 Projects
+
+🚀 *Add your projects here (very important for internships)*
+
+- **NextMatch AI** – AI-based matching platform *(Add description)*  
+- More projects coming soon...
+
+---
+
+## 🤝 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/tanushree-harika-15b374323/  
+- 📧 Email: harileet@gmail.com  
+
+---
+
+## ✨ Quote
+
+> *"Good communication is the bridge between a great idea and a great product."*
+
+---
+
+⭐ *Always learning, always building*
