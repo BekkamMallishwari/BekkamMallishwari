@@ -55,8 +55,8 @@ I believe in **practical skills over theoretical knowledge**, and I continuously
 
 ## 🤝 Connect With Me
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/tanushree-harika-15b374323/  
-- 📧 Email: harileet@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327/ 
+- 📧 Email: bekkammallishwari1209@gmail.com  
 
 ---
 
