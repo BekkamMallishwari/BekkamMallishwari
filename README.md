@@ -10,7 +10,6 @@ Passionate about building modern web applications, exploring AI technologies, an
 
 🎓 2nd-Year B.Tech Information Technology student  
 💡 Focused on Full-Stack Development + AI Integrations  
-
 🌱 Currently learning:
 - Advanced Backend Development  
 - System Design  
@@ -48,17 +47,35 @@ Passionate about building modern web applications, exploring AI technologies, an
 
 ## 📊 GitHub Stats (Real-Time)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=radical" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=radical" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=radical)
 
 ---
 
-## 🤝 Connect With Me
+## 🔥 GitHub Streak (Real-Time Activity)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=BekkamMallishwari&theme=radical)
+
+---
+
+## 📈 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=react-dark)
+
+---
+
+## 🚀 Projects
+
+🔹 **NextMatch AI**  
+AI-powered matching platform designed for intelligent recommendations and better user experience.
+
+🔹 **More Projects Coming Soon**  
+Full-stack + AI-based applications in progress.
+
+---
+
+## 📬 Contact
 
 📧 Email: your-email@example.com  
 💼 LinkedIn: https://linkedin.com/in/your-profile  
