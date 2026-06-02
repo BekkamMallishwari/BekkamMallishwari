@@ -77,10 +77,10 @@ Full-stack + AI-based applications in progress.
 
 ## 📬 Contact
 
-📧 Email: your-email@example.com  
-💼 LinkedIn: https://linkedin.com/in/your-profile  
+📧 Email: bekkammallishwari1209@example.com  
+💼 LinkedIn: https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327  
 🐙 GitHub: https://github.com/BekkamMallishwari  
-🌐 Portfolio: https://your-portfolio-link.com  
+🌐 Portfolio: https://bekkammallishwari.github.io/portfolio-final/ 
 
 ---
 
