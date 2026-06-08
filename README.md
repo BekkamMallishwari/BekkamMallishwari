@@ -75,6 +75,65 @@ Full-stack + AI-based applications in progress.
 
 ---
 
+### 💻 Languages
+
+- Python
+- JavaScript
+- SQL
+- C
+
+### 🎨 Frontend
+
+- HTML5
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Responsive Design
+
+### ⚙️ Backend
+
+- FastAPI
+- Flask
+- REST APIs
+
+### 🗄 Databases
+
+- MySQL
+- Firebase
+- Supabase
+
+### 🔧 Tools & Platforms
+
+- Git
+- GitHub
+- VS Code
+- Linux
+- Postman
+- Figma
+
+### 🤖 AI & ML
+
+- OpenAI APIs
+- Prompt Engineering
+- AI Integrations
+- LLM Applications
+
+  ___
+
+  
+## 🏆 Achievements
+
+🥇 Active Open Source Contributor
+
+🚀 Built and deployed multiple full-stack projects
+
+📚 Consistently learning modern web technologies
+
+💻 Strong interest in AI and software development
+
+🤝 Collaborated with developers through GitHub
+___
+
 ## 📬 Contact
 
 📧 Email: bekkammallishwari1209@example.com  
