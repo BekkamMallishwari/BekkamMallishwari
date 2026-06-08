@@ -25,6 +25,21 @@ Passionate about building modern web applications, exploring AI technologies, an
 
 ---
 
+## 🚀 Currently Working On
+
+🔹 Open Source Contributions
+
+🔹 Full-Stack Web Applications
+
+🔹 AI-Powered Solutions
+
+🔹 Portfolio Enhancements
+
+🔹 Learning Scalable System Design
+
+___
+
+
 ## 🛠 Tech Stack
 
 ### 💻 Languages
