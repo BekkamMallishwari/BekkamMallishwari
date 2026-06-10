@@ -124,13 +124,25 @@ Personal portfolio showcasing my skills and projects.
 Full-stack + AI applications in progress.
 
 ---
+## 📬 Contact Me
 
-## 📬 Contact
+<p align="left">
+  <a href="mailto:bekkammallishwari1209@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-📧 Email: bekkammallishwari1209@example.com  
-💼 LinkedIn: https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327  
-🐙 GitHub: https://github.com/BekkamMallishwari  
-🌐 Portfolio: https://bekkammallishwari.github.io/portfolio-final/  
+  <a href="https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/BekkamMallishwari">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+
+  <a href="https://bekkammallishwari.github.io/portfolio-final/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
