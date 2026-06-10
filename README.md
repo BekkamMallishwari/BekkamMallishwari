@@ -109,8 +109,7 @@
 
 ## 🐍 Contribution Snake
 
-![snake gif](https://github.com/BekkamMallishwari/BekkamMallishwari/blob/output/github-contribution-grid-snake.svg)
-
+![snake gif](https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/output/github-contribution-grid-snake.svg)
 ---
 
 ## 🚀 Featured Projects
