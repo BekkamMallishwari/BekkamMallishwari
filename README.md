@@ -1,8 +1,10 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055FF&height=200&section=header&text=Bekkam%20Mallishwari&fontSize=40&fontColor=ffffff)
+
 # 👋 Hi, I'm Bekkam Mallishwari
 
-💻 Full-Stack Developer | 🤖 AI Enthusiast | 🎓 B.Tech IT Student  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;B.Tech+IT+Student;Building+Smart+Web+Apps)
 
-Passionate about building modern web applications, exploring AI technologies, and solving real-world problems through code.
+💻 Full-Stack Developer | 🤖 AI Enthusiast | 🎓 B.Tech IT Student  
 
 ---
 
@@ -21,23 +23,17 @@ Passionate about building modern web applications, exploring AI technologies, an
 - Learning modern technologies  
 - Turning ideas into real applications  
 
-✨ *Consistency, creativity, and communication are the keys to becoming a great developer.*
-
 ---
 
 ## 🚀 Currently Working On
 
-🔹 Open Source Contributions
+- Open Source Contributions  
+- Full-Stack Web Applications  
+- AI-Powered Solutions  
+- Portfolio Enhancements  
+- Learning System Design  
 
-🔹 Full-Stack Web Applications
-
-🔹 AI-Powered Solutions
-
-🔹 Portfolio Enhancements
-
-🔹 Learning Scalable System Design
-
-___
+---
 
 ## 🚀 Tech Stack
 
@@ -48,7 +44,7 @@ ___
 
 ---
 
-### 🎨 Frontend Development
+### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -56,7 +52,7 @@ ___
 
 ---
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -70,7 +66,7 @@ ___
 
 ---
 
-### 🤖 AI / ML (Learning)
+### 🤖 AI / ML
 ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge)
 
@@ -88,9 +84,10 @@ ___
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+
 ---
 
-## 📊 GitHub Stats (Real-Time)
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=radical)
 
@@ -98,7 +95,7 @@ ___
 
 ---
 
-## 🔥 GitHub Streak (Real-Time Activity)
+## 🔥 GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=BekkamMallishwari&theme=radical)
 
@@ -106,85 +103,35 @@ ___
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=react-dark)
 
 ---
 
-## 🚀 Projects
+## 🐍 Contribution Snake
 
-🔹 **NextMatch AI**  
-AI-powered matching platform designed for intelligent recommendations and better user experience.
-
-🔹 **More Projects Coming Soon**  
-Full-stack + AI-based applications in progress.
+![snake gif](https://github.com/BekkamMallishwari/BekkamMallishwari/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
-### 💻 Languages
+## 🚀 Featured Projects
 
-- Python
-- JavaScript
-- SQL
-- C
+### 🤖 NextMatch AI
+AI-powered intelligent matching platform using modern full-stack architecture.
 
-### 🎨 Frontend
+### 🌐 Portfolio Website
+Personal portfolio showcasing my skills and projects.
 
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Responsive Design
+### ⚙️ More Projects Coming Soon
+Full-stack + AI applications in progress.
 
-### ⚙️ Backend
-
-- FastAPI
-- Flask
-- REST APIs
-
-### 🗄 Databases
-
-- MySQL
-- Firebase
-- Supabase
-
-### 🔧 Tools & Platforms
-
-- Git
-- GitHub
-- VS Code
-- Linux
-- Postman
-- Figma
-
-### 🤖 AI & ML
-
-- OpenAI APIs
-- Prompt Engineering
-- AI Integrations
-- LLM Applications
-
-  ___
-
-  
-## 🏆 Achievements
-
-🥇 Active Open Source Contributor
-
-🚀 Built and deployed multiple full-stack projects
-
-📚 Consistently learning modern web technologies
-
-💻 Strong interest in AI and software development
-
-🤝 Collaborated with developers through GitHub
-___
+---
 
 ## 📬 Contact
 
 📧 Email: bekkammallishwari1209@example.com  
 💼 LinkedIn: https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327  
 🐙 GitHub: https://github.com/BekkamMallishwari  
-🌐 Portfolio: https://bekkammallishwari.github.io/portfolio-final/ 
+🌐 Portfolio: https://bekkammallishwari.github.io/portfolio-final/  
 
 ---
 
