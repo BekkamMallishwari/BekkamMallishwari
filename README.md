@@ -124,24 +124,27 @@ Personal portfolio showcasing my skills and projects.
 Full-stack + AI applications in progress.
 
 ---
+
 ## 📬 Contact Me
 
 <p align="left">
-  <a href="mailto:bekkammallishwari1209@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 
-  <a href="https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<a href="mailto:bekkammallishwari1209@example.com">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" height="40" />
+</a>
 
-  <a href="https://github.com/BekkamMallishwari">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="40" height="40" />
+</a>
 
-  <a href="https://bekkammallishwari.github.io/portfolio-final/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white"/>
-  </a>
+<a href="https://github.com/BekkamMallishwari">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="40" height="40" />
+</a>
+
+<a href="https://bekkammallishwari.github.io/portfolio-final/">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/firefoxbrowser.svg" width="40" height="40" />
+</a>
+
 </p>
 
 ---
