@@ -124,33 +124,24 @@ Personal portfolio showcasing my skills and projects.
 Full-stack + AI applications in progress.
 
 ---
-
 ## 📬 Contact Me
 
 <p align="left">
 
 <a href="mailto:bekkammallishwari1209@example.com">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg"
-       width="45"
-       style="margin-right: 15px; filter: invert(38%) sepia(98%) saturate(749%) hue-rotate(329deg) brightness(95%) contrast(92%);" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="45" style="margin-right:20px;" />
 </a>
 
 <a href="https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg"
-       width="45"
-       style="margin-right: 15px; filter: invert(29%) sepia(97%) saturate(746%) hue-rotate(176deg) brightness(92%) contrast(92%);" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" width="45" style="margin-right:20px;" />
 </a>
 
 <a href="https://github.com/BekkamMallishwari">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg"
-       width="45"
-       style="margin-right: 15px; filter: invert(100%);" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" width="45" style="margin-right:20px;" />
 </a>
 
 <a href="https://bekkammallishwari.github.io/portfolio-final/">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg"
-       width="45"
-       style="margin-right: 15px; filter: invert(48%) sepia(92%) saturate(2476%) hue-rotate(1deg) brightness(103%) contrast(103%);" />
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/googlechrome.svg" width="45" style="margin-right:20px;" />
 </a>
 
 </p>
