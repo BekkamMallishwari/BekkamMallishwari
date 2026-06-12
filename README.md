@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667eea,50:764ba2,100:f093fb&text=Bekkam%20Mallishwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Web%20Apps%20%26%20AI%20Solutions&descAlignY=58&descSize=20)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,25:FF1493,50:FF6B6B,75:00C9FF,100:36D1DC&text=Bekkam%20Mallishwari&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Open%20Source%20Contributor&descAlignY=60&descSize=20)
 
 # 👋 Hi, I'm Bekkam Mallishwari
 
