@@ -4,9 +4,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;B.Tech+IT+Student;Building+Smart+Web+Apps)
 
-💻 Full-Stack Developer | 🤖 AI Enthusiast | 🎓 B.Tech IT Student  
 
----## 🚀 About Me
+--- 🚀 About Me
 
 <img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
@@ -67,10 +66,17 @@
 
 ---
 
-## 🐍 Contribution Snake
+## 📊 GitHub Analytics
 
-![snake gif](https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/output/github-contribution-grid-snake.svg)
----
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BekkamMallishwari&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+___
 
 ## 🚀 Featured Projects
 
