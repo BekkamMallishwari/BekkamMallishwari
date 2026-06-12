@@ -10,13 +10,21 @@
 
 <img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-- 🎓 2nd Year B.Tech Information Technology Student
-- 💻 Passionate about Full-Stack Development and AI-Powered Applications
-- 🚀 Building scalable web applications and modern digital solutions
-- 🤖 Exploring AI integrations, automation, and intelligent systems
-- 🌱 Continuously learning new technologies and industry best practices
-- 🤝 Active contributor to Open Source projects and collaborative development
+## 🚀 About Me
 
+<img align="right" alt="Girl Coding" width="350" src="YOUR_GIF_LINK_HERE">
+
+🎓 **3rd Year B.Tech Information Technology Student**
+
+💻 Passionate about **Full-Stack Development**, **Artificial Intelligence**, and **Modern Web Technologies**
+
+🚀 Building scalable web applications and AI-powered solutions
+
+🌱 Currently learning **System Design**, **Advanced Backend Development**, and **Cloud Technologies**
+
+🤝 Active **Open Source Contributor** and continuous learner focused on creating impactful digital products
+
+<br clear="right"/>
 ### 🚀 Currently Working On
 
 - Building Full-Stack Web Applications
