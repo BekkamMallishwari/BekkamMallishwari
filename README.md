@@ -8,7 +8,7 @@
 
 ---## 🚀 About Me
 
-<img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Girl Developer" width="350" src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif">
 
 - 🎓 2nd Year B.Tech Information Technology Student
 - 💻 Passionate about Full-Stack Development and AI-Powered Applications
