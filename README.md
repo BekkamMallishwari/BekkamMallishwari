@@ -65,16 +65,10 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=react-dark)
 
 ---
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BekkamMallishwari&theme=tokyonight"/>
-</p>
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight" />
 </p>
 ___
 
