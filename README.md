@@ -32,40 +32,17 @@
 - AI-Powered Solutions  
 - Portfolio Enhancements  
 - Learning System Design  
+## 🚀 Tech Stack
 
----## 🚀 Tech Stack
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,firebase,arduino,git,github,vscode,vercel&perline=9" />
 </p>
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
-</p>
-
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase" />
-</p>
-
-### 🤖 AI / ML
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
-### 🔌 Hardware & IoT
-<p>
-  <img src="https://skillicons.dev/icons?i=arduino" />
-  <img src="https://img.shields.io/badge/IoT-00C853?style=for-the-badge&logo=internetofthings&logoColor=white" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
 ### 🛠️ Tools & Platforms
