@@ -7,31 +7,37 @@
 💻 Full-Stack Developer | 🤖 AI Enthusiast | 🎓 B.Tech IT Student  
 
 ---
-
 ## 🚀 About Me
 
-🎓 2nd-Year B.Tech Information Technology student  
-💡 Focused on Full-Stack Development + AI Integrations  
-🌱 Currently learning:
-- Advanced Backend Development  
-- System Design  
-- Scalable Full-Stack Applications  
-- AI-Powered Applications  
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-⚡ What motivates me:
-- Building impactful products  
-- Learning modern technologies  
-- Turning ideas into real applications  
+🎓 **B.Tech Information Technology Student**
+
+💻 Passionate about **Full-Stack Development** and **AI-Powered Applications**
+
+🚀 Building modern web applications with a focus on performance, scalability, and user experience
+
+🌱 Currently exploring:
+- Advanced Backend Development
+- System Design
+- Scalable Web Applications
+- Artificial Intelligence & Integrations
+- Open Source Contributions
+
+💡 Interests:
+- Full-Stack Development
+- AI & Automation
+- Cloud Technologies
+- Software Engineering
+
+⚡ Goal:
+- Create impactful products that solve real-world problems
+- Contribute to open-source communities
+- Continuously learn and adapt to new technologies
+
+<br clear="right"/>
 
 ---
-
-## 🚀 Currently Working On
-
-- Open Source Contributions  
-- Full-Stack Web Applications  
-- AI-Powered Solutions  
-- Portfolio Enhancements  
-- Learning System Design  
 ## 🚀 Tech Stack
 
 <p align="center">
