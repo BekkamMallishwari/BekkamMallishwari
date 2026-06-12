@@ -1,4 +1,4 @@
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0055FF&height=200&section=header&text=Bekkam%20Mallishwari&fontSize=40&fontColor=ffffff)
+![banner](https://capsule-render.vercel.app/api?type=waving&height=260&color=0:667eea,50:764ba2,100:f093fb&text=Bekkam%20Mallishwari&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Building%20Scalable%20Web%20Apps%20%26%20AI%20Solutions&descAlignY=58&descSize=20)
 
 # 👋 Hi, I'm Bekkam Mallishwari
 
@@ -10,9 +10,6 @@
 
 <img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
-## 🚀 About Me
-
-<img align="right" alt="Girl Coding" width="350" src="YOUR_GIF_LINK_HERE">
 
 🎓 **3rd Year B.Tech Information Technology Student**
 
