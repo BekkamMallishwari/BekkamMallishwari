@@ -65,10 +65,10 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=react-dark)
 
 ---
-## 📊 GitHub Stats
+## 🎮 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight" />
+  <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
 </p>
 ___
 
