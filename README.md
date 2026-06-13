@@ -163,33 +163,6 @@ STATUS:
 
 <td>
 
-## 🔥 Codebase Persistence
-
-An objective record of consistency and engineering momentum.
-
-```cpp
-while(true)
-{
-    Learn();
-    Build();
-    Deploy();
-    Improve();
-}
-```
-
-</td>
-
-<td>
-
-<img src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=radical&hide_border=true" />
-
-</td>
-
-</tr>
-
-</table>
-
----
 
 # 📈 Contribution Intelligence
 
