@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="path/to/your/image_fdedb6.jpg" alt="Bekkam Mallishwari - Developer Profile Summary Banner" width="100%">
+  <img src="path/to/your/image_fdedb6.jpg" alt="Bekkam Mallishwari - Developer Profile Summary Banner" width="50%">
 </p>
 
 # 👋 Hi, I'm Bekkam Mallishwari
