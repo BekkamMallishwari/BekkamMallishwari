@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PASTE_YOUR_COPIED_GITHUB_LINK_HERE" alt="Bekkam Mallishwari Developer Profile" width="100%">
+  <img src="path/to/your/image_fdedb6.jpg" alt="Bekkam Mallishwari - Developer Profile Summary Banner" width="100%">
 </p>
 
 # 👋 Hi, I'm Bekkam Mallishwari
