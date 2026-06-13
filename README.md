@@ -1,173 +1,115 @@
-# ✨ Bekkam Mallishwari ✨
+ ![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,25:FF1493,50:FF6B6B,75:00C9FF,100:36D1DC&text=Bekkam%20Mallishwari&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Open%20Source%20Contributor&descAlignY=60&descSize=20)
 
-### B.Tech Information Technology Student · Full-Stack Engineer · Open Source Contributor · Building AI-Powered Digital Experiences
+# 👋 Hi, I'm Bekkam Mallishwari
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;B.Tech+IT+Student;Building+Smart+Web+Apps)
+
+
+--- 🚀 About Me
+
+<img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+
+
+🎓 **3rd Year B.Tech Information Technology Student**
+
+💻 Passionate about **Full-Stack Development**, **Artificial Intelligence**, and **Modern Web Technologies**
+
+🚀 Building scalable web applications and AI-powered solutions
+
+🌱 Currently learning **System Design**, **Advanced Backend Development**, and **Cloud Technologies**
+
+🤝 Active **Open Source Contributor** and continuous learner focused on creating impactful digital products
+
+<br clear="right"/>
+### 🚀 Currently Working On
+
+- Building Full-Stack Web Applications
+- AI-Powered Solutions and Integrations
+- Open Source Contributions
+- Portfolio Enhancements
+- Advanced Backend Development
+- Learning System Design and Scalable Architectures
+
+<br clear="right"/>
+
+---
+## 🚀 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,firebase,arduino,git,github,vscode,vercel&perline=9" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+</p>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=radical)
 
 ---
 
-## 📊 Engineering Telemetry & Development Insights
+## 🔥 GitHub Streak
 
-### 📈 Development Metrics Dashboard
-
-A live overview of coding activity, repository growth, and development consistency across multiple projects and open-source ecosystems.
-
-**Current Status:** Continuously shipping features, refining architectures, and expanding full-stack expertise.
+![GitHub Streak](https://streak-stats.demolab.com?user=BekkamMallishwari&theme=radical)
 
 ---
 
-### 🔮 Technology Ecosystem Analysis
+## 📈 Contribution Graph
 
-An evolving distribution of technologies powering my applications and development workflows.
-
-**Focus Areas:** Modern frontend systems, scalable backend services, AI integrations, and cloud-native deployments.
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=react-dark)
 
 ---
+## 🎮 Contribution Graph
 
-### 🔥 Development Momentum Tracker
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/output/pacman-contribution-graph-dark.svg" alt="Pacman contribution graph" />
+</p>
+___
 
-A reflection of continuous learning, contribution, and product-building consistency.
-
-**Execution Loop:**
-
-```text
-while(true){
-   learn();
-   build();
-   contribute();
-   improve();
-}
-```
-
----
-
-### 📈 Contribution Intelligence Map
-
-Visualizing development intensity, feature delivery cycles, and open-source contribution patterns over time.
-
----
-
-## 🔮 Terminal Profile: /about-me
-
-I am an ambitious software engineer focused on transforming ideas into scalable digital products through modern full-stack development and AI-enhanced workflows.
-
-My passion lies in building applications that combine exceptional user experiences with robust backend systems.
-
-### 🎯 Current Mission
-
-Actively pursuing:
-
-- Software Engineering Internships
-- Full-Stack Development Opportunities
-- Open Source Collaboration
-- AI-Powered Product Development
-
-### ⚡ Deep Diving Into
-
-- Advanced System Design
-- Backend Architecture
-- Cloud Infrastructure
-- AI Integrations
-- Performance Optimization
-
-### 🪐 Development Philosophy
-
-Building products that are scalable, maintainable, and impactful while continuously learning emerging technologies.
-
----
-
-## 🤖 AI-Augmented Development Workflow
-
-> *"The best developers don't compete with AI—they learn how to build faster with it."*
-
-I leverage modern AI tools as development accelerators while maintaining strong software engineering fundamentals.
-
-### 🚀 Rapid Prototyping
-
-Using AI-assisted workflows to validate product ideas, architect solutions, and accelerate MVP development.
-
-### 🧠 Context Engineering
-
-Creating structured development workflows that produce reliable, scalable, and maintainable codebases.
-
-### ⚙️ Intelligent Development
-
-Combining human problem-solving with AI-assisted debugging, optimization, and testing processes.
-
-### 🔄 Continuous Iteration
-
-Transforming concepts into production-ready applications through rapid feedback and improvement cycles.
-
----
-
-## 🛠️ Engineering Core
-
-### 🌐 Frontend Systems
-
-Crafting responsive, modern, and high-performance user interfaces.
-
-### ⚙️ Backend & Data Infrastructure
-
-Designing scalable APIs, databases, and business logic systems.
-
-### ☁️ Cloud & Deployment Ecosystem
-
-Deploying and maintaining production-grade applications using modern cloud platforms and DevOps practices.
-
----
-
-## 🏆 Open Source Journey & Achievements
-
-### 🏅 GirlScript Summer of Code (GSSoC)
-
-Actively contributing to open-source projects through feature development, issue resolution, UI/UX improvements, and collaborative software engineering practices.
-
-### 🚀 Community Contributions
-
-- Open Source Development
-- Feature Implementation
-- UI/UX Enhancements
-- Documentation Improvements
-- Collaborative Code Reviews
-
----
-
-## 🌟 Featured Deployments
+## 🚀 Featured Projects
 
 ### 🤖 NextMatch AI
+AI-powered intelligent matching platform using modern full-stack architecture.
 
-An AI-powered intelligent matching platform built with modern full-stack technologies and scalable architecture principles.
+### 🌐 Portfolio Website
+Personal portfolio showcasing my skills and projects.
 
-### 🌐 Portfolio Platform
+### ⚙️ More Projects Coming Soon
+Full-stack + AI applications in progress.
 
-A personal digital presence showcasing projects, technical skills, achievements, and development journey.
+---
+## 📬 Contact Me
 
-### ⚙️ Upcoming Innovations
+<p align="left">
 
-Currently building advanced full-stack and AI-powered applications focused on solving real-world challenges.
+<a href="mailto:bekkammallishwari1209@example.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://github.com/BekkamMallishwari">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://bekkammallishwari.github.io/portfolio-final/">
+  <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+</p>
 
 ---
 
-## 🐍 Contribution Universe
+## ✨ Developer Mindset
 
-Watch development activity evolve across repositories through automated contribution visualizations and interactive GitHub analytics.
+> "Every project is an opportunity to learn, improve, and build something meaningful."
 
----
-
-## 🌐 Connect & Collaborate
-
-Interested in discussing:
-
-- Full-Stack Development
-- Open Source Collaboration
-- AI-Powered Applications
-- Internship Opportunities
-- Modern Software Engineering
-
-Let's build impactful technology together.
-
----
-
-# ✨ Thanks for Visiting ✨
-
-### 🚀 Building. Learning. Contributing. Repeating.
-
-If you find my work interesting, consider exploring my repositories and supporting the projects with a ⭐.
+⭐ Always Learning | Always Building ⭐ change this into like that
