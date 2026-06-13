@@ -1,4 +1,4 @@
-<img width="1000" height="500" alt="Unknown-2" src="https://github.com/user-attachments/assets/4c4f67cd-a457-4775-9449-6be10121acdd" />
+<img width="800" height="450" alt="Unknown-2" src="https://github.com/user-attachments/assets/4c4f67cd-a457-4775-9449-6be10121acdd" />
 
 
 # 👋 Hi, I'm Bekkam Mallishwari
