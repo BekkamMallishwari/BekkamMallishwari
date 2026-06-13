@@ -1,4 +1,4 @@
- ![banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:8A2BE2,25:FF1493,50:FF6B6B,75:00C9FF,100:36D1DC&text=Bekkam%20Mallishwari&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Developer%20•%20Open%20Source%20Contributor&descAlignY=60&descSize=20)
+![Developer Profile Poster of Bekkam Mallishwari](https://file.notion.so/f/s/b883015f-6a7e-41bd-b6de-87d7b370868f/image_13.png?id=b5601d51-8727-4a0b-9366-41f23788a1b6&table=block&spaceId=f748a34d-8758-450f-aa4e-7b993322e1b1&expirationTimestamp=1717286400000&signature=u0z3y4_46f3w_w00&downloadName=image_13.png)
 
 # 👋 Hi, I'm Bekkam Mallishwari
 
