@@ -1,53 +1,56 @@
   <img width="800" height="450" alt="Unknown-2" src="https://github.com/user-attachments/assets/4c4f67cd-a457-4775-9449-6be10121acdd" />
 
-
 # 👋 Hi, I'm Bekkam Mallishwari
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;B.Tech+IT+Student;Building+Smart+Web+Apps)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;IoT+Innovator;B.Tech+IT+Student;Building+Scalable+Digital+Solutions" />
+</p>
 
+---
 
---- 🚀 About Me
+# 🚀 Mission Control
 
-<img align="right" alt="Girl Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
 
+### 🎓 Academic Profile
 
-🎓 **3rd Year B.Tech Information Technology Student**
+- 🎓 B.Tech Information Technology (3rd Year)
+- 💻 Passionate about Full-Stack Development
+- 🤖 Exploring Artificial Intelligence & Generative AI
+- 📡 Building IoT-Powered Smart Systems
+- 🌱 Open Source Contributor
+- 🚀 Lifelong Learner
 
-💻 Passionate about **Full-Stack Development**, **Artificial Intelligence**, and **Modern Web Technologies**
+### 🔥 Current Objectives
 
-🚀 Building scalable web applications and AI-powered solutions
-
-🌱 Currently learning **System Design**, **Advanced Backend Development**, and **Cloud Technologies**
-
-🤝 Active **Open Source Contributor** and continuous learner focused on creating impactful digital products
+- Designing Scalable Full-Stack Applications
+- Building AI-Powered Products
+- Exploring Cloud Technologies
+- Contributing to Open Source
+- Learning System Design
+- Developing Real-World IoT Solutions
 
 <br clear="right"/>
-### 🚀 Currently Working On
 
-- Building Full-Stack Web Applications
-- AI-Powered Solutions and Integrations
-- Open Source Contributions
-- Portfolio Enhancements
-- Advanced Backend Development
-- Learning System Design and Scalable Architectures
+---
 
-<br clear="right"/>
-
----# 🛠️ Tech Stack
+# 🛠️ Syntactic Core (Tech Stack)
 
 <table align="center">
 <tr>
+
 <td align="center" width="25%">
 
 ### 🌐 Frontend Systems
+
 *High-fidelity interfaces & components*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,javascript" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,javascript,typescript,html,css" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+<img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
 </p>
 
 </td>
@@ -55,15 +58,16 @@
 <td align="center" width="25%">
 
 ### ⚙️ Backend & Storage
-*APIs, AI & databases*
+
+*High-throughput APIs & relational engines*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,mongodb,postgres,firebase" />
+<img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,mongodb,postgres,firebase" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 </td>
@@ -71,38 +75,41 @@
 <td align="center" width="25%">
 
 ### 📡 IoT & Embedded
-*Connected devices & edge computing*
+
+*Connected devices & intelligent hardware*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=esphome&logoColor=white" />
-  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
-  <img src="https://img.shields.io/badge/Sensors-009688?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=esphome&logoColor=white" />
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
+<img src="https://img.shields.io/badge/Sensors-009688?style=for-the-badge" />
 </p>
 
 </td>
 
 <td align="center" width="25%">
 
-### ☁️ Infrastructure & Tools
-*Deployment & development workflow*
+### ☁️ Infrastructure & Design
+
+*Deployment pipelines & development workflow*
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
 
 </td>
+
 </tr>
 </table>
 
-___
+---
 
 # 📊 Telemetry & Insights (The Numbers)
 
@@ -163,6 +170,33 @@ STATUS:
 
 <td>
 
+## 🔥 Codebase Persistence
+
+An objective record of consistency and engineering momentum.
+
+```cpp
+while(true)
+{
+    Learn();
+    Build();
+    Deploy();
+    Improve();
+}
+```
+
+</td>
+
+<td>
+
+<img src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=radical&hide_border=true" />
+
+</td>
+
+</tr>
+
+</table>
+
+---
 
 # 📈 Contribution Intelligence
 
@@ -259,9 +293,13 @@ Responsive portfolio showcasing projects and achievements.
 
 ---
 
+# 💡 Developer Philosophy
 
-## ✨ Developer Mindset
+> "Every commit is a step toward mastery. Every project is an opportunity to create meaningful impact."
 
-> "Every project is an opportunity to learn, improve, and build something meaningful."
+<p align="center">
+⭐ Always Learning • Always Building • Always Improving ⭐
+</p>
 
-⭐ Always Learning | Always Building ⭐ change this into like that
+
+
