@@ -1,4 +1,6 @@
-![Developer Profile Poster of Bekkam Mallishwari](https://file.notion.so/f/s/b883015f-6a7e-41bd-b6de-87d7b370868f/image_13.png?id=b5601d51-8727-4a0b-9366-41f23788a1b6&table=block&spaceId=f748a34d-8758-450f-aa4e-7b993322e1b1&expirationTimestamp=1717286400000&signature=u0z3y4_46f3w_w00&downloadName=image_13.png)
+<p align="center">
+  <img src="PASTE_YOUR_GENERATED_GITHUB_LINK_HERE" alt="Bekkam Mallishwari - Developer Profile Poster" width="100%">
+</p>
 
 # 👋 Hi, I'm Bekkam Mallishwari
 
