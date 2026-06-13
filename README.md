@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="./profile-banner.png" alt="Bekkam Mallishwari - Developer Profile Summary Banner" width="25%">
-</p>
+<img width="25" height="25" alt="Unknown-2" src="https://github.com/user-attachments/assets/4c4f67cd-a457-4775-9449-6be10121acdd" />
+
 
 # 👋 Hi, I'm Bekkam Mallishwari
 
