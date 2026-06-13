@@ -104,6 +104,194 @@
 
 ___
 
+# 📊 Telemetry & Insights (The Numbers)
+
+<table>
+<tr>
+
+<td width="55%">
+
+## 📈 System Architecture Metrics
+
+A high-level view of engineering output, repository growth, and development activity across multiple domains.
+
+```txt
+STATUS:
+▰ Building AI Applications
+▰ Designing Full-Stack Architectures
+▰ Creating IoT Ecosystems
+▰ Contributing to Open Source
+```
+
+</td>
+
+<td width="45%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=radical&hide_border=true" />
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=radical&hide_border=true" />
+
+</td>
+
+<td>
+
+## 🔮 Language Ecosystem Breakdown
+
+### Core Development Areas
+
+- ⚛️ React & Next.js
+- 🐍 Python Development
+- ⚡ FastAPI & Backend Systems
+- 🗄️ Database Architecture
+- 📡 IoT & Embedded Systems
+
+📄 Focused on scalable full-stack engineering and AI-driven applications.
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🔥 Codebase Persistence
+
+An objective record of consistency and engineering momentum.
+
+```cpp
+while(true)
+{
+    Learn();
+    Build();
+    Deploy();
+    Improve();
+}
+```
+
+</td>
+
+<td>
+
+<img src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=radical&hide_border=true" />
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 📈 Contribution Intelligence
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
+# 🎮 Contribution Matrix
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/output/pacman-contribution-graph-dark.svg" />
+</p>
+
+---
+
+# 🚀 Deployment Portfolio
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 🤖 NextMatch AI
+
+AI-powered intelligent matching platform.
+
+### Tech Stack
+
+- Next.js
+- FastAPI
+- PostgreSQL
+- Gemini API
+- Tailwind CSS
+
+### Highlights
+
+- AI Matching Engine
+- Smart Recommendations
+- Modern UI/UX
+- Real-Time Processing
+
+</td>
+
+<td width="50%">
+
+## 🌐 Personal Portfolio
+
+Responsive portfolio showcasing projects and achievements.
+
+### Tech Stack
+
+- React
+- Tailwind CSS
+- Vercel
+- GitHub Pages
+
+### Highlights
+
+- Responsive Design
+- Dynamic Animations
+- Project Showcase
+- Contact Integration
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌍 Network Endpoints
+
+<p align="center">
+
+<a href="mailto:bekkammallishwari1209@example.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/BekkamMallishwari">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://bekkammallishwari.github.io/portfolio-final/">
+<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+
+
+
+
+____
+
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=radical)
