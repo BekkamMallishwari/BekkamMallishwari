@@ -33,19 +33,76 @@
 
 <br clear="right"/>
 
----
-## 🚀 Tech Stack
+---# 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,cpp,react,nextjs,tailwind,nodejs,express,fastapi,mongodb,postgres,firebase,arduino,git,github,vscode,vercel&perline=9" />
+<table align="center">
+<tr>
+<td align="center" width="25%">
+
+### 🌐 Frontend Systems
+*High-fidelity interfaces & components*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,javascript" />
 </p>
 
-<p align="center">
+<p>
+  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️ Backend & Storage
+*APIs, AI & databases*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,nodejs,express,fastapi,mongodb,postgres,firebase" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" />
+</p>
+
+</td>
+
+<td align="center" width="25%">
+
+### 📡 IoT & Embedded
+*Connected devices & edge computing*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,raspberrypi" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=esphome&logoColor=white" />
+  <img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipsemosquitto&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sensors-009688?style=for-the-badge" />
+</p>
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️ Infrastructure & Tools
+*Deployment & development workflow*
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
 </p>
+
+</td>
+</tr>
+</table>
+
+___
 
 ## 📊 GitHub Stats
 
