@@ -1,4 +1,6 @@
-  <img width="800" height="450" alt="Unknown-2" src="https://github.com/user-attachments/assets/4c4f67cd-a457-4775-9449-6be10121acdd" />
+<p align="center">
+  <img src="URL_TO_YOUR_IMAGE" alt="Bekkam Mallishwari - GitHub Profile Banner" width="100%">
+</p>
 
 # 👋 Hi, I'm Bekkam Mallishwari
 
