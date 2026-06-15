@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="URL_TO_YOUR_IMAGE" alt="Bekkam Mallishwari - GitHub Profile Banner" width="100%">
-</p>
+![Uploading Unknown-3.jpg…]()
+
 
 # 👋 Hi, I'm Bekkam Mallishwari
 
