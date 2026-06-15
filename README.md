@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="banner.png" alt="Bekkam Mallishwari - GitHub Profile Banner" width="50%">
-</p>
+
 
 # 👋 Hi, I'm Bekkam Mallishwari
 
