@@ -299,6 +299,3 @@ Responsive portfolio showcasing projects and achievements.
 <p align="center">
 ⭐ Always Learning • Always Building • Always Improving ⭐
 </p>
-
-
-
