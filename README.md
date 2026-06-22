@@ -205,7 +205,8 @@ while(true)
 
 ---
 
-# 🎮 Contribution Matrix
+
+
 # 🎮 Contribution Matrix
 
 <p align="center">
@@ -216,17 +217,7 @@ while(true)
 
 # 🏆 Open Source Achievements
 
-<table>
-<tr>
-<td width="100%">
-
 ## 🌱 AgroDex Contributor
-
-### 📌 Featured Contribution
-
-**Project:** AgroDex
-
-### 🚀 Contribution Summary
 
 - 🐛 Reported Issue #91 – Missing About Section
 - 🛠️ Implemented a dedicated About page
@@ -235,20 +226,12 @@ while(true)
 - 🎉 Successfully merged by the maintainer
 - 📦 Included in official release v1.3.4
 
-### 📊 Contribution Record
+### Achievement
 
-| Project | Contribution | Pull Request | Status |
-|----------|-------------|-------------|---------|
-| AgroDex | Added About Page & Navigation Link | #119 | ✅ Merged & Released |
+Successfully contributed a feature that was merged and released in AgroDex v1.3.4.
 
-### 🏅 Open Source Impact
+---
 
-```txt
-Issue Identified    ✅
-Feature Developed   ✅
-Code Reviewed       ✅
-PR Merged           ✅
-Released to Users   ✅
 
 # 🚀 Deployment Portfolio
 
