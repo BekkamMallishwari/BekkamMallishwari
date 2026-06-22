@@ -206,12 +206,49 @@ while(true)
 ---
 
 # 🎮 Contribution Matrix
+# 🎮 Contribution Matrix
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/output/pacman-contribution-graph-dark.svg" />
 </p>
 
 ---
+
+# 🏆 Open Source Achievements
+
+<table>
+<tr>
+<td width="100%">
+
+## 🌱 AgroDex Contributor
+
+### 📌 Featured Contribution
+
+**Project:** AgroDex
+
+### 🚀 Contribution Summary
+
+- 🐛 Reported Issue #91 – Missing About Section
+- 🛠️ Implemented a dedicated About page
+- 🔗 Added About page navigation link
+- ✅ Submitted Pull Request #119
+- 🎉 Successfully merged by the maintainer
+- 📦 Included in official release v1.3.4
+
+### 📊 Contribution Record
+
+| Project | Contribution | Pull Request | Status |
+|----------|-------------|-------------|---------|
+| AgroDex | Added About Page & Navigation Link | #119 | ✅ Merged & Released |
+
+### 🏅 Open Source Impact
+
+```txt
+Issue Identified    ✅
+Feature Developed   ✅
+Code Reviewed       ✅
+PR Merged           ✅
+Released to Users   ✅
 
 # 🚀 Deployment Portfolio
 
