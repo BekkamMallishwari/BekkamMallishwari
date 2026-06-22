@@ -213,22 +213,62 @@ while(true)
 <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/output/pacman-contribution-graph-dark.svg" />
 </p>
 
+
 ---
 
 # 🏆 Open Source Achievements
 
+<table>
+<tr>
+<td width="100%">
+
 ## 🌱 AgroDex Contributor
 
-- 🐛 Reported Issue #91 – Missing About Section
+### 📌 Featured Contribution
+
+**Project:** AgroDex
+
+### 🚀 Contribution Summary
+
+- 🐛 Resolved Issue #91 – Missing About Section
 - 🛠️ Implemented a dedicated About page
 - 🔗 Added About page navigation link
 - ✅ Submitted Pull Request #119
 - 🎉 Successfully merged by the maintainer
 - 📦 Included in official release v1.3.4
 
-### Achievement
+### 📊 Contribution Record
 
-Successfully contributed a feature that was merged and released in AgroDex v1.3.4.
+| Project | Contribution | Status |
+|----------|-------------|---------|
+| AgroDex | Added About Page & Navigation Link | ✅ Released in v1.3.4 |
+
+### 🏅 Open Source Impact
+
+
+Issue Identified    ✅
+Feature Developed   ✅
+Code Reviewed       ✅
+PR Merged           ✅
+Released to Users   ✅
+
+
+### 🔗 References
+
+* Issue #91: https://github.com/daviddprtma/AgroDex/issues/91
+* PR #119: https://github.com/daviddprtma/AgroDex/pull/119
+* Release v1.3.4: https://github.com/daviddprtma/AgroDex/releases
+
+### 🌟 Achievement
+
+Successfully contributed a user-facing feature that was merged, reviewed, and shipped in the official AgroDex v1.3.4 release.
+
+</td>
+</tr>
+</table>
+
+---
+
 
 ---
 
