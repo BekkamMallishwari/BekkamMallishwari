@@ -351,7 +351,7 @@ Let's build something impactful. Whether you want to discuss full-stack developm
 
 <td align="center" width="25%">
 <a href="https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
 
 ### LinkedIn
 
