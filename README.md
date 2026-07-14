@@ -328,29 +328,63 @@ Responsive portfolio showcasing projects and achievements.
 
 ---
 
-# 🌍 Network Endpoints
+# 🌐 Connect & Collaborate
 
 <p align="center">
 
-<a href="mailto:bekkammallishwari1209@example.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/BekkamMallishwari">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://bekkammallishwari.github.io/portfolio-final/">
-<img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-</a>
+Let's build something impactful. Whether you want to discuss full-stack development, AI, open source, internships, or exciting project ideas—feel free to connect!
 
 </p>
 
+<table align="center">
+<tr>
+
+<td align="center" width="25%">
+<a href="https://github.com/BekkamMallishwari">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80"/>
+
+### GitHub
+
+**/BekkamMallishwari**
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327/">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80"/>
+
+### LinkedIn
+
+**Mallishwari Bekkam**
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="mailto:bekkammallishwari1209@gmail.com">
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="80"/>
+
+### Gmail
+
+**bekkammallishwari1209@gmail.com**
+</a>
+</td>
+
+<td align="center" width="25%">
+<a href="https://bekkammallishwari.github.io/portfolio-final/">
+<img src="https://img.icons8.com/color/96/domain.png" width="80"/>
+
+### Portfolio
+
+**Visit Website**
+</a>
+</td>
+
+</tr>
+</table>
+
 ---
+
+
 
 # 💡 Developer Philosophy
 
