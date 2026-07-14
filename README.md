@@ -173,7 +173,7 @@ STATUS:
 
 An objective record of consistency and engineering momentum.
 
-```cpp
+cpp
 while(true)
 {
     Learn();
@@ -181,7 +181,7 @@ while(true)
     Deploy();
     Improve();
 }
-```
+
 
 </td>
 
