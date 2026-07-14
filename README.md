@@ -330,52 +330,38 @@ Responsive portfolio showcasing projects and achievements.
 
 # 🌐 Connect & Collaborate
 
-<p align="center">
-
-Let's build something impactful. Whether you want to discuss full-stack development, AI, open source, internships, or exciting project ideas—feel free to connect!
-
-</p>
-
-<table align="center">
+<table align="center" width="80%">
 <tr>
 
 <td align="center" width="25%">
 <a href="https://github.com/BekkamMallishwari">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-
-### GitHub
-
-**/BekkamMallishwari**
+<img src="https://skillicons.dev/icons?i=github" width="55"><br><br>
+<b>GitHub</b><br>
+BekkamMallishwari
 </a>
 </td>
 
 <td align="center" width="25%">
 <a href="https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327/">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-
-### LinkedIn
-
-**Mallishwari Bekkam**
+<img src="https://skillicons.dev/icons?i=linkedin" width="55"><br><br>
+<b>LinkedIn</b><br>
+Mallishwari Bekkam
 </a>
 </td>
 
 <td align="center" width="25%">
 <a href="mailto:bekkammallishwari1209@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="50"/>
-
-### Gmail
-
-**bekkammallishwari1209@gmail.com**
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="55"><br><br>
+<b>Gmail</b><br>
+Email Me
 </a>
 </td>
 
 <td align="center" width="25%">
 <a href="https://bekkammallishwari.github.io/portfolio-final/">
-<img src="https://img.icons8.com/color/96/domain.png" width="50"/>
-
-### Portfolio
-
-**Visit Website**
+<img src="https://img.icons8.com/color/96/domain.png" width="55"><br><br>
+<b>Portfolio</b><br>
+Visit Website
 </a>
 </td>
 
@@ -383,7 +369,6 @@ Let's build something impactful. Whether you want to discuss full-stack developm
 </table>
 
 ---
-
 
 
 # 💡 Developer Philosophy
