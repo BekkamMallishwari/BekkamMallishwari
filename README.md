@@ -341,7 +341,7 @@ Let's build something impactful. Whether you want to discuss full-stack developm
 
 <td align="center" width="25%">
 <a href="https://github.com/BekkamMallishwari">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
 
 ### GitHub
 
@@ -351,7 +351,7 @@ Let's build something impactful. Whether you want to discuss full-stack developm
 
 <td align="center" width="25%">
 <a href="https://www.linkedin.com/in/mallishwari-bekkam-90b9a2327/">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/>
 
 ### LinkedIn
 
@@ -361,7 +361,7 @@ Let's build something impactful. Whether you want to discuss full-stack developm
 
 <td align="center" width="25%">
 <a href="mailto:bekkammallishwari1209@gmail.com">
-<img src="https://img.icons8.com/color/96/gmail-new.png" width="80"/>
+<img src="https://img.icons8.com/color/96/gmail-new.png" width="50"/>
 
 ### Gmail
 
@@ -371,7 +371,7 @@ Let's build something impactful. Whether you want to discuss full-stack developm
 
 <td align="center" width="25%">
 <a href="https://bekkammallishwari.github.io/portfolio-final/">
-<img src="https://img.icons8.com/color/96/domain.png" width="80"/>
+<img src="https://img.icons8.com/color/96/domain.png" width="50"/>
 
 ### Portfolio
 
