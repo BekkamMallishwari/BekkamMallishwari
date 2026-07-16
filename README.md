@@ -121,13 +121,13 @@
 
 A high-level overview of engineering output, repository growth, and development activity.
 
-```text
+text
 STATUS:
 ▰ Building AI Applications
 ▰ Designing Full-Stack Architectures
 ▰ Creating IoT Ecosystems
 ▰ Contributing to Open Source
-```
+
 
 </td>
 
@@ -197,11 +197,7 @@ while (true)
 
 ---
 
-# 📈 Contribution Intelligence
 
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true"/>
-</p>
 # 📈 Contribution Intelligence
 
 <p align="center">
