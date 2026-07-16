@@ -121,13 +121,13 @@
 
 A high-level view of engineering output, repository growth, and development activity across multiple domains.
 
-```txt
+txt
 STATUS:
 ▰ Building AI Applications
 ▰ Designing Full-Stack Architectures
 ▰ Creating IoT Ecosystems
 ▰ Contributing to Open Source
-```
+
 
 </td>
 
