@@ -119,21 +119,21 @@
 
 ## 📈 System Architecture Metrics
 
-A high-level view of engineering output, repository growth, and development activity across multiple domains.
+A high-level overview of engineering output, repository growth, and development activity.
 
-txt
+```text
 STATUS:
 ▰ Building AI Applications
 ▰ Designing Full-Stack Architectures
 ▰ Creating IoT Ecosystems
 ▰ Contributing to Open Source
-
+```
 
 </td>
 
-<td width="45%">
+<td width="45%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=radical&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </td>
 
@@ -141,9 +141,9 @@ STATUS:
 
 <tr>
 
-<td>
+<td align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=radical&hide_border=true" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </td>
 
@@ -154,12 +154,12 @@ STATUS:
 ### Core Development Areas
 
 - ⚛️ React & Next.js
-- 🐍 Python Development
-- ⚡ FastAPI & Backend Systems
-- 🗄️ Database Architecture
-- 📡 IoT & Embedded Systems
+- 🟢 Node.js & Express
+- 🐍 Python & FastAPI
+- 🗄️ MongoDB & PostgreSQL
+- ☁️ Cloud & Deployment
 
-📄 Focused on scalable full-stack engineering and AI-driven applications.
+📄 Focused on building scalable full-stack applications, AI-powered solutions, and open-source contributions.
 
 </td>
 
@@ -174,7 +174,7 @@ STATUS:
 An objective record of consistency and engineering momentum.
 
 cpp
-while(true)
+while (true)
 {
     Learn();
     Build();
@@ -185,9 +185,9 @@ while(true)
 
 </td>
 
-<td>
+<td align="center">
 
-<img src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=radical&hide_border=true" />
+<img width="100%" src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=tokyonight&hide_border=true"/>
 
 </td>
 
@@ -197,6 +197,11 @@ while(true)
 
 ---
 
+# 📈 Contribution Intelligence
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true"/>
+</p>
 # 📈 Contribution Intelligence
 
 <p align="center">
