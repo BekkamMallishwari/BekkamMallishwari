@@ -109,11 +109,7 @@
 </table>
 
 ---
----
 
----
----
----
 
 # 📊 Telemetry Insights
 
