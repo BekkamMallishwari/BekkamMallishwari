@@ -109,45 +109,39 @@
 </table>
 
 ---
+---
 
-# 📊 Telemetry & Insights (The Numbers)
+# 📊 Telemetry Insights
 
-<table>
-<tr>
+<p align="center">
 
-<td width="55%">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" />
 
-## 📈 System Architecture Metrics
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=BekkamMallishwari&theme=tokyonight&hide_border=true&border_radius=12" />
 
-A high-level overview of engineering output, repository growth, and development activity.
+</p>
 
-text
-STATUS:
-▰ Building AI Applications
-▰ Designing Full-Stack Architectures
-▰ Creating IoT Ecosystems
-▰ Contributing to Open Source
+<p align="center">
 
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true&area=true" />
 
-</td>
+</p>
 
-<td width="45%" align="center">
+<p align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=180"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8" />
 
-</td>
+<img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BekkamMallishwari&theme=tokyonight" />
 
-</tr>
+</p>
 
-<tr>
+<p align="center">
 
-<td align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BekkamMallishwari&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" />
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=180"/>
+</p>
 
-</td>
-
-<td>
+---
 
 ## 🔮 Language Ecosystem Breakdown
 
