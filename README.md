@@ -113,31 +113,21 @@
 
 ---
 ---
+---
 
 # 📊 Telemetry Insights
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-
-  <img width="49%" src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BekkamMallishwari&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6&margin-w=15&margin-h=15" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BekkamMallishwari&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/BekkamMallishwari?label=Followers&style=for-the-badge&color=0891b2" />
-  <img src="https://img.shields.io/github/stars/BekkamMallishwari?affiliations=OWNER&style=for-the-badge&color=facc15" />
+  <img src="https://komarev.com/ghpvc/?username=BekkamMallishwari&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/BekkamMallishwari?label=Followers&style=for-the-badge" alt="Followers" />
 </p>
 
 ---
