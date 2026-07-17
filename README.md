@@ -133,7 +133,7 @@ STATUS:
 
 <td width="45%" align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=180"/>
 
 </td>
 
@@ -143,7 +143,7 @@ STATUS:
 
 <td align="center">
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=180"/>
 
 </td>
 
