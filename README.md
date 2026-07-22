@@ -110,7 +110,6 @@
 
 ---
 
-
 # 📊 Telemetry Insights
 
 <p align="center">
