@@ -127,8 +127,6 @@
 
 ---
 
----
-
 ## 🔮 Language Ecosystem Breakdown
 
 ### Core Development Areas
