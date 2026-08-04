@@ -219,54 +219,62 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 
 ---
 
-
-# 🚀 Deployment Portfolio
+# 🚀 Featured Projects
 
 <table>
 <tr>
 
 <td width="50%">
 
-## 🤖 NextMatch AI
+## 🎓 CampusConnect
 
-AI-powered intelligent matching platform.
+A smart campus platform focused on Lost & Found management with secure authentication, AI-powered features, and real-time communication.
 
 ### Tech Stack
 
-- Next.js
-- FastAPI
-- PostgreSQL
-- Gemini API
+- React
+- Node.js
+- Express.js
+- MongoDB
+- TypeScript
 - Tailwind CSS
+- Socket.IO
+- Cloudinary
 
 ### Highlights
 
-- AI Matching Engine
-- Smart Recommendations
-- Modern UI/UX
-- Real-Time Processing
+- AI-powered Lost & Found System
+- Google OAuth & JWT Authentication
+- Real-Time Chat & Notifications
+- Image Uploads with Cloudinary
+- Reward & Claim Verification
+- Responsive Modern UI
 
 </td>
 
 <td width="50%">
 
-## 🌐 Personal Portfolio
+## 🤖 AI Agent Platform
 
-Responsive portfolio showcasing projects and achievements.
+An intelligent AI assistant platform that automates user tasks using LLMs, tool integrations, and conversational workflows.
 
 ### Tech Stack
 
-- React
+- Next.js
+- FastAPI
+- Python
+- Gemini API
+- PostgreSQL
 - Tailwind CSS
-- Vercel
-- GitHub Pages
 
 ### Highlights
 
-- Responsive Design
-- Dynamic Animations
-- Project Showcase
-- Contact Integration
+- Multi-Agent AI Workflows
+- Natural Language Conversations
+- Tool & API Integrations
+- Intelligent Task Automation
+- Context-Aware Responses
+- Modern Dashboard UI
 
 </td>
 
