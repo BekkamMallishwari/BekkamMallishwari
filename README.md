@@ -225,63 +225,35 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 <tr>
 
 <td width="50%">
+  
+# 🎓 CampusConnect
 
-## 🎓 CampusConnect
+**CampusConnect** is a smart campus platform that simplifies the process of reporting, finding, and recovering lost belongings. Students can report lost or found items, discover potential matches, communicate with other users, and securely verify ownership. AI-powered features help make item discovery and recovery faster and more convenient.
 
-A smart campus platform focused on Lost & Found management with secure authentication, AI-powered features, and real-time communication.
+### Key Features
 
-### Tech Stack
+- 🔍 Smart Lost & Found Management
+- 🤖 AI-Assisted Item Matching
+- 🔐 Secure User Authentication
+- 💬 Real-Time Messaging & Notifications
+- 🏆 Reward & Claim Verification
+- 🖼️ Image-Based Item Reporting
+- 📱 Responsive & Modern Campus Experience
 
-- React
-- Node.js
-- Express.js
-- MongoDB
-- TypeScript
-- Tailwind CSS
-- Socket.IO
-- Cloudinary
 
-### Highlights
+# 🤖 AI Agent Platform
 
-- AI-powered Lost & Found System
-- Google OAuth & JWT Authentication
-- Real-Time Chat & Notifications
-- Image Uploads with Cloudinary
-- Reward & Claim Verification
-- Responsive Modern UI
+**AI Agent Platform** is an intelligent assistant system that helps users automate tasks through natural-language conversations. It understands user requests, coordinates multiple AI agents, connects with external tools, and executes multi-step workflows. The platform transforms complex tasks into simple conversational interactions.
 
-</td>
+### Key Features
 
-<td width="50%">
-
-## 🤖 AI Agent Platform
-
-An intelligent AI assistant platform that automates user tasks using LLMs, tool integrations, and conversational workflows.
-
-### Tech Stack
-
-- Next.js
-- FastAPI
-- Python
-- Gemini API
-- PostgreSQL
-- Tailwind CSS
-
-### Highlights
-
-- Multi-Agent AI Workflows
-- Natural Language Conversations
-- Tool & API Integrations
-- Intelligent Task Automation
-- Context-Aware Responses
-- Modern Dashboard UI
-
-</td>
-
-</tr>
-</table>
-
----
+- 🤖 Multi-Agent Task Execution
+- 💬 Natural-Language AI Conversations
+- ⚙️ Automated Multi-Step Workflows
+- 🔗 Tool & API Integrations
+- 🧠 Context-Aware Responses
+- 🚀 Intelligent Task Automation
+- 📊 Interactive AI Dashboard
 
 # 🌐 Connect & Collaborate
 
