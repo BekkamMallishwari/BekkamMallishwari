@@ -297,7 +297,6 @@ Visit Website
 
 ---
 
-
 # 💡 Developer Philosophy
 
 > "Every commit is a step toward mastery. Every project is an opportunity to create meaningful impact."
