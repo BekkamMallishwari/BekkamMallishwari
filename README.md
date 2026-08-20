@@ -113,16 +113,28 @@
 # 📊 Telemetry Insights
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
+    alt="GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Graph"
+  />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BekkamMallishwari&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/BekkamMallishwari?label=Followers&style=for-the-badge" alt="Followers" />
+  <img
+    src="https://komarev.com/ghpvc/?username=BekkamMallishwari&label=Profile%20Views&color=0e75b6&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/BekkamMallishwari?label=Followers&style=for-the-badge"
+    alt="Followers"
+  />
 </p>
 
 ---
