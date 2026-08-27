@@ -115,20 +115,34 @@
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="Bekkam Mallishwari GitHub Stats"
+    alt="GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=BekkamMallishwari&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true&area=true"
-    alt="Mallishwari's Contribution Graph"
+    alt="Contribution Graph"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=BekkamMallishwari&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge"
+    src="https://komarev.com/ghpvc/?username=BekkamMallishwari&label=PROFILE%20VIEWS&style=for-the-badge"
     alt="Profile Views"
   />
   <img
