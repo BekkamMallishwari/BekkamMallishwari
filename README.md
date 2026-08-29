@@ -113,33 +113,76 @@
 ---
 
 ---
+---
 
-## 📊 Telemetry Insights
+# 📊 Telemetry Insights
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BekkamMallishwari&label=PROFILE+VIEWS&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/BekkamMallishwari?label=FOLLOWERS&style=for-the-badge" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/BekkamMallishwari?label=STARS&style=for-the-badge" alt="Stars" />
-  <img src="https://img.shields.io/github/repos/BekkamMallishwari?label=PUBLIC+REPOS&style=for-the-badge" alt="Public Repositories" />
+  <img
+    src="https://komarev.com/ghpvc/?username=BekkamMallishwari&label=PROFILE+VIEWS&style=for-the-badge"
+    alt="Profile Views"
+  />
+  <img
+    src="https://img.shields.io/github/followers/BekkamMallishwari?label=FOLLOWERS&style=for-the-badge"
+    alt="Followers"
+  />
+  <img
+    src="https://img.shields.io/github/stars/BekkamMallishwari?label=STARS&style=for-the-badge"
+    alt="Stars"
+  />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-</p>
+## 📈 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+    width="49%"
+    alt="GitHub Stats"
+  />
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak" />
-</p>
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Telemetry Metrics" width="100%" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    width="49%"
+    alt="Most Used Languages"
+  />
 </p>
 
 ---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 📊 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+---
+
+## 🧊 Contribution Matrix
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/output/pacman-contribution-graph-dark.svg"
+    width="100%"
+    alt="Contribution Graph"
+  />
+</p>
+
 ---
 ---
 
