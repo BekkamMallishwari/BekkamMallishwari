@@ -113,7 +113,6 @@
 ---
 
 ---
----
 
 # 📊 Telemetry Insights
 
@@ -136,54 +135,28 @@
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
     alt="GitHub Stats"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true"
+    width="48%"
     alt="Most Used Languages"
   />
 </p>
 
----
-
-## 🔥 Contribution Streak
+## 🔥 Contribution Activity
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true&area=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true"
     width="100%"
-    alt="GitHub Contribution Activity Graph"
+    alt="GitHub Contribution Activity"
   />
 </p>
 
----
 
-## 🧊 Contribution Matrix
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/output/pacman-contribution-graph-dark.svg"
-    width="100%"
-    alt="Contribution Graph"
-  />
-</p>
-
----
 ---
 
 ## 🔮 Language Ecosystem Breakdown
