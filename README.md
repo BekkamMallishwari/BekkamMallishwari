@@ -110,44 +110,70 @@
 
 ---
 
+---
+
 ## 📊 Telemetry Insights
 
 <p align="center">
 
+   Profile Views
   <img
     src="https://komarev.com/ghpvc/?username=BekkamMallishwari&label=PROFILE%20VIEWS&style=for-the-badge"
     alt="Profile Views"
   />
 
+   Followers 
   <img
     src="https://img.shields.io/github/followers/BekkamMallishwari?label=FOLLOWERS&style=for-the-badge"
     alt="GitHub Followers"
   />
 
+   Stars 
   <img
     src="https://img.shields.io/github/stars/BekkamMallishwari?label=STARS&style=for-the-badge"
     alt="GitHub Stars"
   />
 
+   Public Repositories
+  <img
+    src="https://img.shields.io/github/repos/BekkamMallishwari?label=PUBLIC%20REPOS&style=for-the-badge"
+    alt="Public Repositories"
+  />
+
 </p>
 
-<p align="center">
+<br>
 
+<!-- GitHub Metrics -->
+<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true"
+    src="./github-metrics.svg"
+    alt="GitHub Telemetry Metrics"
+    width="100%"
+  />
+</p>
+
+<br>
+
+ GitHub Statistics 
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
     alt="GitHub Statistics"
   />
-
 </p>
 
+<br>
+
+ Contribution Streak 
 <p align="center">
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
+    src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
   />
-
 </p>
+
+---
 ---
 
 ## 🔮 Language Ecosystem Breakdown
