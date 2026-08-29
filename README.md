@@ -109,52 +109,19 @@
 </table>
 
 ---
-
----
-
----
-
-# 📊 Telemetry Insights
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=BekkamMallishwari&label=PROFILE+VIEWS&style=for-the-badge"
-    alt="Profile Views"
-  />
-  <img
-    src="https://img.shields.io/github/followers/BekkamMallishwari?label=FOLLOWERS&style=for-the-badge"
-    alt="Followers"
-  />
-  <img
-    src="https://img.shields.io/github/stars/BekkamMallishwari?label=STARS&style=for-the-badge"
-    alt="Stars"
-  />
-</p>
-
 ## 📈 My Stats
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=tokyonight&hide_border=true"
-    width="48%"
-    alt="Most Used Languages"
-  />
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" width="49%" alt="Most Used Languages" />
 </p>
 
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true"
-    width="100%"
-    alt="GitHub Contribution Activity"
-  />
+  <img src="./profile/activity.svg" width="100%" alt="GitHub Contribution Activity" />
 </p>
+
 
 
 ---
