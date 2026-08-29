@@ -185,6 +185,46 @@
 
 
 ---
+---
+
+# 🏅 Microsoft Learn Achievements
+
+<p align="center">
+
+<a href="https://learn.microsoft.com/en-in/training/modules/explore-ai-basics/">
+<img src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" width="150" alt="Explore AI basics Badge"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-in/training/modules/explore-generative-ai/">
+<img src="https://learn.microsoft.com/en-us/learn/achievements/generic-badge.svg" width="150" alt="Explore Generative AI Badge"/>
+</a>
+
+</p>
+
+### 🤖 Explore AI basics
+
+Successfully completed the **Explore AI basics** Microsoft Learn module and passed the module assessment.
+
+- 🏅 Microsoft Learn Badge
+- 📅 Completed: August 29, 2026
+- 🔗 [View Achievement](https://learn.microsoft.com/api/achievements/share/en-in/MallishwariBekkam-0925/FELSMGYX?sharingId=CE9BE8B21A6183C0)
+
+### ✨ Explore Generative AI
+
+Successfully completed the **Explore Generative AI** Microsoft Learn module and passed the module assessment.
+
+- 🏅 Microsoft Learn Badge
+- 📅 Completed: August 29, 2026
+- 🔗 [View Achievement](https://learn.microsoft.com/api/achievements/share/en-in/MallishwariBekkam-0925/K9RXCXRB?sharingId=CE9BE8B21A6183C0)
+
+### 📊 Microsoft Learn Progress
+
+| Achievement | Status |
+|---|---|
+| 🏅 Explore AI basics | ✅ Completed |
+| 🏅 Explore Generative AI | ✅ Completed |
+
+___
 
 # 🏆 Open Source Achievements
 
