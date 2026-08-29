@@ -119,7 +119,7 @@
 ## 🔥 Contribution Activity
 
 <p align="center">
-  <img src="./profile/activity.svg" width="100%" alt="GitHub Contribution Activity" />
+  <img src="./profile/activity.svg" width="25%" alt="GitHub Contribution Activity" />
 </p>
 
 
