@@ -122,14 +122,14 @@
 
 ---
 
-## 📈 GitHub Activity
+## 📈 Contribution Graph
 
 <div align="center">
 
 <img
   src="./github-metrics.svg"
   width="95%"
-  alt="GitHub Metrics"
+  alt="GitHub Contribution Graph"
 />
 
 </div>
