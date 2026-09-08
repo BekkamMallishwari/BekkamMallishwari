@@ -127,9 +127,9 @@
 <div align="center">
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true&area=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true"
   width="95%"
-  alt="GitHub Contribution Graph"
+  alt="Contribution Graph"
 />
 
 </div>
