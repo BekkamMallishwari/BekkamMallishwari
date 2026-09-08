@@ -121,7 +121,6 @@
 </div>
 
 ---
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -133,6 +132,7 @@
 />
 
 </div>
+
 ---
 
 ## 🔮 Language Ecosystem Breakdown
