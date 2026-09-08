@@ -109,19 +109,30 @@
 </table>
 
 ---
-## 📈 My Stats
+## 🔥 GitHub Streak
 
-<p align="center">
-  <img src="./profile/stats.svg" width="49%" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" width="49%" alt="Most Used Languages" />
-</p>
+<div align="center">
 
-## 🔥 Contribution Activity
+<img
+  src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=tokyonight&hide_border=true"
+  alt="GitHub Streak"
+/>
 
-<p align="center">
-  <img src="./profile/activity.svg" width="25%" alt="GitHub Contribution Activity" />
-</p>
+</div>
 
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
+  alt="GitHub Contribution Graph"
+/>
+
+</div>
 
 
 ---
