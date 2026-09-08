@@ -122,11 +122,17 @@
 
 ---
 
-## 📈 Contribution Graph
+## 📈 GitHub Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari)
+<div align="center">
 
+<img
+  src="./github-metrics.svg"
+  width="95%"
+  alt="GitHub Metrics"
+/>
 
+</div>
 ---
 
 ## 🔮 Language Ecosystem Breakdown
