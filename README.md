@@ -283,8 +283,6 @@ Selected as a **GSSoC 2026 Contributor** and actively contributed to open-source
 | 🎯 Contributor Tier | **Starter** |
 <h3>🏅 GSSoC 2026 Badges</h3>
 
-### 🏅 Badges Earned
-
 <p align="center">
   <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png" width="140" alt="Contributor"></a>
   <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png" width="140" alt="Rising Star"></a>
