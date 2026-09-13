@@ -268,28 +268,6 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 
 # 🏆 GSSoC 2026 — Open Source Achievements
 
-<p align="center">
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://gssoc.girlscript.org/badges/milestone/power_contributor.png"
-         width="180"
-         alt="GSSoC 2026 Power Contributor Badge"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png"
-         width="180"
-         alt="GSSoC 2026 Rising Star Badge"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://gssoc.girlscript.org/badges/milestone/getting_started.png"
-         width="180"
-         alt="GSSoC 2026 Getting Started Badge"/>
-  </a>
-</p>
-
-### 🌟 GirlScript Summer of Code 2026
-
 Selected as a **GSSoC 2026 Contributor** and actively contributed to open-source projects across multiple repositories.
 
 ### 📊 GSSoC 2026 Highlights
@@ -301,7 +279,7 @@ Selected as a **GSSoC 2026 Contributor** and actively contributed to open-source
 | ⭐ Total Points | **1,262** |
 | 🔀 PRs Merged | **6** |
 | 📦 Projects Contributed | **3** |
-| 🏅 Badges Earned | **9** |
+| 🏅 Badges Earned | **10** |
 | 🎯 Contributor Tier | **Starter** |
 
 ### 🏅 Badges Earned
@@ -309,73 +287,43 @@ Selected as a **GSSoC 2026 Contributor** and actively contributed to open-source
 <p align="center">
 
 <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-  <img src="https://gssoc.girlscript.org/badges/milestone/power_contributor.png"
-       width="180"
-       alt="Power Contributor"/>
+<img src="./assets/gssoc/role_contributor.png" width="150" alt="Contributor"/>
 </a>
 
-<br><br>
-
 <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-  <img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png"
-       width="180"
-       alt="Rising Star"/>
+<img src="./assets/gssoc/rising_star.png" width="150" alt="Rising Star"/>
 </a>
 
-<br><br>
-
 <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-  <img src="https://gssoc.girlscript.org/badges/milestone/getting_started.png"
-       width="180"
-       alt="Getting Started"/>
+<img src="./assets/gssoc/power_contributor.png" width="150" alt="Power Contributor"/>
 </a>
 
-<br><br>
-
 <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-  <img src="https://gssoc.girlscript.org/badges/milestone/first_steps.png"
-       width="180"
-       alt="First Steps"/>
+<img src="./assets/gssoc/profile_complete.png" width="150" alt="Profile Complete"/>
 </a>
 
-<br><br>
-
 <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-  <img src="https://gssoc.girlscript.org/badges/milestone/discord_verified.png"
-       width="180"
-       alt="Discord Verified"/>
+<img src="./assets/gssoc/point_scorer.png" width="150" alt="Point Scorer"/>
 </a>
 
-<br><br>
-
 <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-  <img src="https://gssoc.girlscript.org/badges/milestone/profile_complete.png"
-       width="180"
-       alt="Profile Complete"/>
+<img src="./assets/gssoc/getting_started.png" width="150" alt="Getting Started"/>
 </a>
 
-<br><br>
-
 <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-  <img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png"
-       width="180"
-       alt="Point Scorer"/>
+<img src="./assets/gssoc/first_steps.png" width="150" alt="First Steps"/>
 </a>
 
-<br><br>
-
 <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-  <img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png"
-       width="180"
-       alt="Bounty Hunter"/>
+<img src="./assets/gssoc/discord_verified.png" width="150" alt="Discord Verified"/>
 </a>
 
-<br><br>
+<a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
+<img src="./assets/gssoc/bounty_master.png" width="150" alt="Master Bounty"/>
+</a>
 
 <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-  <img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png"
-       width="180"
-       alt="Code Warrior"/>
+<img src="./assets/gssoc/bounty_hunter.png" width="150" alt="Bounty Hunter"/>
 </a>
 
 </p>
@@ -398,7 +346,6 @@ Selected as a **GSSoC 2026 Contributor** and actively contributed to open-source
          alt="View GSSoC Profile"/>
   </a>
 </p>
-
 
 ---
 
