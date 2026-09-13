@@ -266,6 +266,113 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 
 ---
 
+# 🏆 GSSoC 2026 — Open Source Achievements
+
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
+    <img src="https://gssoc.girlscript.org/badges/milestone/power_contributor.png"
+         width="180"
+         alt="GSSoC 2026 Power Contributor Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
+    <img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png"
+         width="180"
+         alt="GSSoC 2026 Rising Star Badge"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
+    <img src="https://gssoc.girlscript.org/badges/milestone/getting_started.png"
+         width="180"
+         alt="GSSoC 2026 Getting Started Badge"/>
+  </a>
+</p>
+
+### 🌟 GirlScript Summer of Code 2026
+
+Selected as a **GSSoC 2026 Contributor** and actively contributed to open-source projects across multiple repositories.
+
+### 📊 GSSoC 2026 Highlights
+
+| Achievement | Result |
+|---|---:|
+| 🌍 Global Rank | **#1,320** |
+| 🏆 Leaderboard | **Top 3%** |
+| ⭐ Total Points | **1,262** |
+| 🔀 PRs Merged | **6** |
+| 📦 Projects Contributed | **3** |
+| 🏅 Badges Earned | **9** |
+| 🎯 Contributor Tier | **Starter** |
+
+### 🏅 Badges Earned
+
+<p align="center">
+
+<img src="https://gssoc.girlscript.org/badges/milestone/power_contributor.png"
+     width="140"
+     alt="Power Contributor"/>
+
+<img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png"
+     width="140"
+     alt="Rising Star"/>
+
+<img src="https://gssoc.girlscript.org/badges/milestone/getting_started.png"
+     width="140"
+     alt="Getting Started"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://gssoc.girlscript.org/badges/milestone/first_steps.png"
+     width="140"
+     alt="First Steps"/>
+
+<img src="https://gssoc.girlscript.org/badges/milestone/discord_verified.png"
+     width="140"
+     alt="Discord Verified"/>
+
+<img src="https://gssoc.girlscript.org/badges/milestone/profile_complete.png"
+     width="140"
+     alt="Profile Complete"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png"
+     width="140"
+     alt="Point Scorer"/>
+
+<img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png"
+     width="140"
+     alt="Bounty Hunter"/>
+
+<img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png"
+     width="140"
+     alt="Code Warrior"/>
+
+</p>
+
+### 🚀 Open Source Impact
+
+- 🔀 **6 Pull Requests merged**
+- 📦 Contributed to **3 open-source repositories**
+- 🐛 Fixed bugs and implemented new features
+- 💻 Worked on beginner, intermediate, and advanced contributions
+- 💰 Completed multiple GSSoC bounty tasks
+- 🤝 Collaborated with open-source maintainers
+- 🌱 Strengthened real-world Git and GitHub development experience
+
+### 🔗 GSSoC Profile
+
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
+    <img src="https://img.shields.io/badge/GSSoC%202026-View%20Profile-6C63FF?style=for-the-badge&logo=github&logoColor=white"
+         alt="View GSSoC Profile"/>
+  </a>
+</p>
+
 
 ---
 
