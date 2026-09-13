@@ -283,39 +283,19 @@ Selected as a **GSSoC 2026 Contributor** and actively contributed to open-source
 | 🎯 Contributor Tier | **Starter** |
 <h3>🏅 GSSoC 2026 Badges</h3>
 
-<p align="center">
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/main/assets/gssoc/role_contributor.png" width="140" alt="Contributor"/>
-  </a>
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/main/assets/gssoc/rising_star.png" width="140" alt="Rising Star"/>
-  </a>
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/main/assets/gssoc/power_contributor.png" width="140" alt="Power Contributor"/>
-  </a>
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/main/assets/gssoc/profile_complete.png" width="140" alt="Profile Complete"/>
-  </a>
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/main/assets/gssoc/point_scorer.png" width="140" alt="Point Scorer"/>
-  </a>
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/main/assets/gssoc/getting_started.png" width="140" alt="Getting Started"/>
-  </a>
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/main/assets/gssoc/first_steps.png" width="140" alt="First Steps"/>
-  </a>
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/main/assets/gssoc/discord_verified.png" width="140" alt="Discord Verified"/>
-  </a>
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/main/assets/gssoc/bounty_master.png" width="140" alt="Master Bounty"/>
-  </a>
-  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad">
-    <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/main/assets/gssoc/bounty_hunter.png" width="140" alt="Bounty Hunter"/>
-  </a>
-</p>
+### 🏅 Badges Earned
 
+<p align="center">
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png" width="140" alt="Contributor"></a>
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/rising_star.png" width="140" alt="Rising Star"></a>
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/power_contributor.png" width="140" alt="Power Contributor"></a>
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/profile_complete.png" width="140" alt="Profile Complete"></a>
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/point_scorer.png" width="140" alt="Point Scorer"></a>
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/getting_started.png" width="140" alt="Getting Started"></a>
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/first_steps.png" width="140" alt="First Steps"></a>
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/discord_verified.png" width="140" alt="Discord Verified"></a>
+  <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png" width="140" alt="Bounty Hunter"></a>
+</p>
 ### 🚀 Open Source Impact
 
 - 🔀 **6 Pull Requests merged**
