@@ -125,15 +125,7 @@
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-<img
-  src="./github-metrics.svg"
-  width="95%"
-  alt="GitHub Contribution Graph"
-/>
-
-</div>
+<img src="github-metrics.svg" width="100%" />
 
 ---
 
