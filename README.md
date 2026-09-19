@@ -125,8 +125,13 @@
 
 ## 📈 Contribution Graph
 
-<img src="github-metrics.svg" width="100%" />
-
+<p align="center">
+  <img
+    src="github-metrics.svg"
+    alt="Mallishwari's GitHub Contribution Graph"
+    width="100%"
+  />
+</p>
 ---
 
 ## 🔮 Language Ecosystem Breakdown
