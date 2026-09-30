@@ -309,7 +309,7 @@ Selected as a **GSSoC 2026 Contributor** and actively contributed to open-source
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Featured Projects 
 
 <table>
 <tr>
