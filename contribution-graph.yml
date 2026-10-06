@@ -2,7 +2,10 @@ name: Update Contribution Graph
 
 on:
   schedule:
+    # Every day at 12:00 AM IST
     - cron: "30 18 * * *"
+
+  # Allows you to run it manually from GitHub Actions
   workflow_dispatch:
 
 permissions:
@@ -22,13 +25,30 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          pip install requests
+
+      - name: Get current month dates
+        id: dates
+        run: |
+          START_DATE=$(date -u +%Y-%m-01)
+          END_DATE=$(date -u -d "$(date -u +%Y-%m-01) +1 month -1 day" +%Y-%m-%d)
+
+          echo "start_date=$START_DATE" >> "$GITHUB_OUTPUT"
+          echo "end_date=$END_DATE" >> "$GITHUB_OUTPUT"
+
+          echo "Current month:"
+          echo "Start date: $START_DATE"
+          echo "End date: $END_DATE"
 
       - name: Generate contribution graph
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GITHUB_USERNAME: BekkamMallishwari
-        run: python scripts/generate_contribution_graph.py
+          START_DATE: ${{ steps.dates.outputs.start_date }}
+          END_DATE: ${{ steps.dates.outputs.end_date }}
+        run: |
+          python scripts/generate_contribution_graph.py
 
       - name: Commit updated graph
         run: |
