@@ -15,9 +15,9 @@
 />
 
 
-<!-- ======================================================
+<!-- =====================================================
      TITLE
-====================================================== -->
+===================================================== -->
 
 <text
     x="550.0"
@@ -42,13 +42,13 @@
     font-size="12"
     font-family="Arial, Helvetica, sans-serif"
 >
-    October 2026 • 34 contributions
+    October 2026 • 35 contributions
 </text>
 
 
-<!-- ======================================================
+<!-- =====================================================
      GRAPH BORDER
-====================================================== -->
+===================================================== -->
 
 <rect
     x="80"
@@ -185,63 +185,629 @@
         y1="75"
         x2="80.00"
         y2="365"
-        stroke="#30363d"
+        stroke="#21262d"
         stroke-width="1"
     />
+    
+    <text
+        x="80.00"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        1
+    </text>
+    
+    <line
+        x1="112.67"
+        y1="75"
+        x2="112.67"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="112.67"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        2
+    </text>
+    
+    <line
+        x1="145.33"
+        y1="75"
+        x2="145.33"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="145.33"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        3
+    </text>
+    
+    <line
+        x1="178.00"
+        y1="75"
+        x2="178.00"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="178.00"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        4
+    </text>
+    
+    <line
+        x1="210.67"
+        y1="75"
+        x2="210.67"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="210.67"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        5
+    </text>
+    
+    <line
+        x1="243.33"
+        y1="75"
+        x2="243.33"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="243.33"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        6
+    </text>
     
     <line
         x1="276.00"
         y1="75"
         x2="276.00"
         y2="365"
-        stroke="#30363d"
+        stroke="#21262d"
         stroke-width="1"
     />
+    
+    <text
+        x="276.00"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        7
+    </text>
+    
+    <line
+        x1="308.67"
+        y1="75"
+        x2="308.67"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="308.67"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        8
+    </text>
+    
+    <line
+        x1="341.33"
+        y1="75"
+        x2="341.33"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="341.33"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        9
+    </text>
+    
+    <line
+        x1="374.00"
+        y1="75"
+        x2="374.00"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="374.00"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        10
+    </text>
+    
+    <line
+        x1="406.67"
+        y1="75"
+        x2="406.67"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="406.67"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        11
+    </text>
+    
+    <line
+        x1="439.33"
+        y1="75"
+        x2="439.33"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="439.33"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        12
+    </text>
     
     <line
         x1="472.00"
         y1="75"
         x2="472.00"
         y2="365"
-        stroke="#30363d"
+        stroke="#21262d"
         stroke-width="1"
     />
+    
+    <text
+        x="472.00"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        13
+    </text>
+    
+    <line
+        x1="504.67"
+        y1="75"
+        x2="504.67"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="504.67"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        14
+    </text>
+    
+    <line
+        x1="537.33"
+        y1="75"
+        x2="537.33"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="537.33"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        15
+    </text>
+    
+    <line
+        x1="570.00"
+        y1="75"
+        x2="570.00"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="570.00"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        16
+    </text>
+    
+    <line
+        x1="602.67"
+        y1="75"
+        x2="602.67"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="602.67"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        17
+    </text>
+    
+    <line
+        x1="635.33"
+        y1="75"
+        x2="635.33"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="635.33"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        18
+    </text>
     
     <line
         x1="668.00"
         y1="75"
         x2="668.00"
         y2="365"
-        stroke="#30363d"
+        stroke="#21262d"
         stroke-width="1"
     />
+    
+    <text
+        x="668.00"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        19
+    </text>
+    
+    <line
+        x1="700.67"
+        y1="75"
+        x2="700.67"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="700.67"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        20
+    </text>
+    
+    <line
+        x1="733.33"
+        y1="75"
+        x2="733.33"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="733.33"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        21
+    </text>
+    
+    <line
+        x1="766.00"
+        y1="75"
+        x2="766.00"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="766.00"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        22
+    </text>
+    
+    <line
+        x1="798.67"
+        y1="75"
+        x2="798.67"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="798.67"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        23
+    </text>
+    
+    <line
+        x1="831.33"
+        y1="75"
+        x2="831.33"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="831.33"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        24
+    </text>
     
     <line
         x1="864.00"
         y1="75"
         x2="864.00"
         y2="365"
-        stroke="#30363d"
+        stroke="#21262d"
         stroke-width="1"
     />
+    
+    <text
+        x="864.00"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        25
+    </text>
+    
+    <line
+        x1="896.67"
+        y1="75"
+        x2="896.67"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="896.67"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        26
+    </text>
+    
+    <line
+        x1="929.33"
+        y1="75"
+        x2="929.33"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="929.33"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        27
+    </text>
+    
+    <line
+        x1="962.00"
+        y1="75"
+        x2="962.00"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="962.00"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        28
+    </text>
+    
+    <line
+        x1="994.67"
+        y1="75"
+        x2="994.67"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="994.67"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        29
+    </text>
+    
+    <line
+        x1="1027.33"
+        y1="75"
+        x2="1027.33"
+        y2="365"
+        stroke="#21262d"
+        stroke-width="1"
+    />
+    
+    <text
+        x="1027.33"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        30
+    </text>
     
     <line
         x1="1060.00"
         y1="75"
         x2="1060.00"
         y2="365"
-        stroke="#30363d"
+        stroke="#21262d"
         stroke-width="1"
     />
     
+    <text
+        x="1060.00"
+        y="385"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        31
+    </text>
+    
     <polygon
-        points="80.00,365 80.00,75.00 276.00,365.00 472.00,278.00 668.00,220.00 864.00,162.00 1060.00,104.00 1060.00,365"
+        points="80.00,365 80.00,75.00 112.67,365.00 145.33,278.00 178.00,220.00 210.67,162.00 243.33,75.00 243.33,365"
         fill="#238636"
         fill-opacity="0.25"
     />
     
     <polyline
-        points="80.00,75.00 276.00,365.00 472.00,278.00 668.00,220.00 864.00,162.00 1060.00,104.00"
+        points="80.00,75.00 112.67,365.00 145.33,278.00 178.00,220.00 210.67,162.00 243.33,75.00"
         fill="none"
         stroke="#39d353"
         stroke-width="3"
@@ -263,7 +829,7 @@
     </circle>
     
     <circle
-        cx="276.00"
+        cx="112.67"
         cy="365.00"
         r="4"
         fill="#39d353"
@@ -276,7 +842,7 @@
     </circle>
     
     <circle
-        cx="472.00"
+        cx="145.33"
         cy="278.00"
         r="4"
         fill="#39d353"
@@ -289,7 +855,7 @@
     </circle>
     
     <circle
-        cx="668.00"
+        cx="178.00"
         cy="220.00"
         r="4"
         fill="#39d353"
@@ -302,7 +868,7 @@
     </circle>
     
     <circle
-        cx="864.00"
+        cx="210.67"
         cy="162.00"
         r="4"
         fill="#39d353"
@@ -315,83 +881,17 @@
     </circle>
     
     <circle
-        cx="1060.00"
-        cy="104.00"
+        cx="243.33"
+        cy="75.00"
         r="4"
         fill="#39d353"
         stroke="#0d1117"
         stroke-width="2"
     >
         <title>
-            Oct 06: 9 contributions
+            Oct 06: 10 contributions
         </title>
     </circle>
-    
-    <text
-        x="80.00"
-        y="387"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-size="11"
-        font-family="Arial, Helvetica, sans-serif"
-    >
-        Oct 1
-    </text>
-    
-    <text
-        x="276.00"
-        y="387"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-size="11"
-        font-family="Arial, Helvetica, sans-serif"
-    >
-        Oct 2
-    </text>
-    
-    <text
-        x="472.00"
-        y="387"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-size="11"
-        font-family="Arial, Helvetica, sans-serif"
-    >
-        Oct 3
-    </text>
-    
-    <text
-        x="668.00"
-        y="387"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-size="11"
-        font-family="Arial, Helvetica, sans-serif"
-    >
-        Oct 4
-    </text>
-    
-    <text
-        x="864.00"
-        y="387"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-size="11"
-        font-family="Arial, Helvetica, sans-serif"
-    >
-        Oct 5
-    </text>
-    
-    <text
-        x="1060.00"
-        y="387"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-size="11"
-        font-family="Arial, Helvetica, sans-serif"
-    >
-        Oct 6
-    </text>
     
 <!-- X Axis -->
 
