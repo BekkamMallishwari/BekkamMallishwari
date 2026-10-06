@@ -11,6 +11,7 @@ from zoneinfo import ZoneInfo
 # ============================================================
 
 GITHUB_TOKEN = os.environ["GITHUB_TOKEN"]
+
 GITHUB_USERNAME = os.environ.get(
     "GITHUB_USERNAME",
     "BekkamMallishwari"
@@ -47,10 +48,6 @@ else:
 # Last day of current month
 end_date = next_month - timedelta(days=1)
 
-# Don't show future days as zero.
-# The graph stops at today's date.
-plot_end = min(today, end_date)
-
 
 # ============================================================
 # GITHUB GRAPHQL QUERY
@@ -77,9 +74,13 @@ query($username: String!, $from: DateTime!, $to: DateTime!) {
 """
 
 
-# GitHub contribution dates in India time
-from_datetime = f"{start_date}T00:00:00+05:30"
-to_datetime = f"{end_date}T23:59:59+05:30"
+from_datetime = (
+    f"{start_date}T00:00:00+05:30"
+)
+
+to_datetime = (
+    f"{end_date}T23:59:59+05:30"
+)
 
 
 # ============================================================
@@ -108,19 +109,23 @@ response = requests.post(
     timeout=30,
 )
 
-
-# Check HTTP error
 response.raise_for_status()
 
 result = response.json()
 
 
-# Check GraphQL errors
+# ============================================================
+# GRAPHQL ERROR CHECK
+# ============================================================
+
 if "errors" in result:
     raise RuntimeError(result["errors"])
 
 
-# Check user
+# ============================================================
+# USER CHECK
+# ============================================================
+
 user_data = result["data"]["user"]
 
 if user_data is None:
@@ -150,35 +155,68 @@ for week in calendar["weeks"]:
         ] = day_data["contributionCount"]
 
 
-# Calculate monthly total ourselves.
-# GitHub does not provide totalContributions
-# directly on ContributionsCollection.
-total_contributions = sum(
-    contribution_map.values()
-)
-
-
 # ============================================================
-# CREATE DATE + CONTRIBUTION LIST
+# CREATE FULL MONTH DATA
 # ============================================================
+
+# IMPORTANT:
+# We create ALL days of the month here.
+#
+# Example:
+# October -> 31 days
+# November -> 30 days
+# December -> 31 days
+#
+# Future days remain None instead of 0.
 
 dates = []
 counts = []
 
 current = start_date
 
-while current <= plot_end:
+while current <= end_date:
 
     dates.append(current)
 
-    counts.append(
-        contribution_map.get(
-            current.isoformat(),
-            0
+    # Only use actual GitHub data up to today.
+    if current <= today:
+
+        counts.append(
+            contribution_map.get(
+                current.isoformat(),
+                0
+            )
         )
-    )
+
+    else:
+
+        # Future date = no data yet
+        counts.append(None)
 
     current += timedelta(days=1)
+
+
+# ============================================================
+# ACTUAL CONTRIBUTION VALUES
+# ============================================================
+
+actual_counts = [
+    value
+    for value in counts
+    if value is not None
+]
+
+
+# Total contributions completed so far
+total_contributions = sum(actual_counts)
+
+
+# Highest number of contributions on one day
+max_count = (
+    max(actual_counts)
+    if actual_counts
+    else 0
+)
 
 
 # ============================================================
@@ -199,54 +237,79 @@ GRAPH_HEIGHT = BOTTOM - TOP
 
 
 # ============================================================
-# Y-AXIS SCALE
+# DYNAMIC Y-AXIS
 # ============================================================
 
-max_count = max(counts) if counts else 0
-
-
-def nice_maximum(value):
+def calculate_y_scale(maximum):
     """
-    Convert the maximum contribution value
-    into a clean graph scale.
+    Creates a clean Y-axis based on the
+    user's actual contribution count.
 
     Examples:
 
-    7   -> 10
-    18  -> 20
-    37  -> 50
-    83  -> 100
+    max = 10
+    -> 0, 2, 4, 6, 8, 10
+
+    max = 23
+    -> 0, 5, 10, 15, 20, 25
+
+    max = 47
+    -> 0, 10, 20, 30, 40, 50
     """
 
-    if value <= 0:
-        return 5
+    if maximum <= 0:
+        return 5, 1
 
+    # Small values
+    if maximum <= 5:
+        return 5, 1
+
+    if maximum <= 10:
+        return 10, 2
+
+    if maximum <= 20:
+        return 20, 4
+
+    if maximum <= 25:
+        return 25, 5
+
+    if maximum <= 50:
+        return 50, 10
+
+    if maximum <= 100:
+        return 100, 20
+
+    # Larger values
     magnitude = 10 ** math.floor(
-        math.log10(value)
+        math.log10(maximum)
     )
 
-    normalized = value / magnitude
+    normalized = maximum / magnitude
 
     if normalized <= 1:
         nice = 1
-
     elif normalized <= 2:
         nice = 2
-
     elif normalized <= 5:
         nice = 5
-
     else:
         nice = 10
 
-    return int(nice * magnitude)
+    y_maximum = int(
+        nice * magnitude
+    )
+
+    y_step = y_maximum / 5
+
+    return (
+        y_maximum,
+        y_step
+    )
 
 
-y_max = nice_maximum(max_count)
-
-# Minimum graph height
-if y_max < 5:
-    y_max = 5
+y_max, y_step = calculate_y_scale(
+    max_count
+)
 
 
 # ============================================================
@@ -254,6 +317,13 @@ if y_max < 5:
 # ============================================================
 
 def x_position(index):
+
+    # IMPORTANT:
+    # X positions use the FULL MONTH.
+    #
+    # Therefore:
+    # October 1 -> left
+    # October 31 -> right
 
     if len(dates) <= 1:
         return LEFT
@@ -277,14 +347,19 @@ def y_position(value):
 
 
 # ============================================================
-# CREATE GRAPH POINTS
+# CREATE ACTUAL GRAPH POINTS
 # ============================================================
 
 points = []
 
 for index, count in enumerate(counts):
 
+    # Don't create points for future days
+    if count is None:
+        continue
+
     x = x_position(index)
+
     y = y_position(count)
 
     points.append(
@@ -298,7 +373,7 @@ for index, count in enumerate(counts):
 
 
 # ============================================================
-# SVG HELPER
+# SVG ESCAPE
 # ============================================================
 
 def escape(value):
@@ -310,9 +385,12 @@ def escape(value):
 # ============================================================
 
 month_name = start_date.strftime("%B")
+
 year = start_date.year
 
-title = "Mallishwari's Contribution Graph"
+title = (
+    "Mallishwari's Contribution Graph"
+)
 
 subtitle = (
     f"{month_name} {year} • "
@@ -341,9 +419,9 @@ svg = f'''<svg
 />
 
 
-<!-- ======================================================
+<!-- =====================================================
      TITLE
-====================================================== -->
+===================================================== -->
 
 <text
     x="{WIDTH / 2}"
@@ -372,9 +450,9 @@ svg = f'''<svg
 </text>
 
 
-<!-- ======================================================
+<!-- =====================================================
      GRAPH BORDER
-====================================================== -->
+===================================================== -->
 
 <rect
     x="{LEFT}"
@@ -389,16 +467,18 @@ svg = f'''<svg
 
 
 # ============================================================
-# HORIZONTAL GRID LINES
+# Y-AXIS GRID
 # ============================================================
 
-TICK_COUNT = 5
+number_of_ticks = int(
+    round(y_max / y_step)
+)
 
-for i in range(TICK_COUNT + 1):
+for i in range(
+    number_of_ticks + 1
+):
 
-    value = (
-        y_max * i / TICK_COUNT
-    )
+    value = i * y_step
 
     y = y_position(value)
 
@@ -426,61 +506,45 @@ for i in range(TICK_COUNT + 1):
 
 
 # ============================================================
-# X-AXIS LABEL POSITIONS
+# X-AXIS — ALL DAYS OF THE MONTH
 # ============================================================
 
-# Around 8 labels across the graph
-
-label_count = min(
-    8,
-    len(dates)
-)
-
-label_indices = []
-
-if label_count > 1:
-
-    for i in range(label_count):
-
-        index = round(
-            i
-            * (len(dates) - 1)
-            / (label_count - 1)
-        )
-
-        if index not in label_indices:
-            label_indices.append(index)
-
-else:
-
-    label_indices = [0]
-
-
-# ============================================================
-# VERTICAL GRID LINES
-# ============================================================
-
-for index in label_indices:
+for index, current_date in enumerate(dates):
 
     x = x_position(index)
 
+    # Vertical grid for every day
     svg += f'''
     <line
         x1="{x:.2f}"
         y1="{TOP}"
         x2="{x:.2f}"
         y2="{BOTTOM}"
-        stroke="#30363d"
+        stroke="#21262d"
         stroke-width="1"
     />
     '''
 
+    # Show every day number
+    svg += f'''
+    <text
+        x="{x:.2f}"
+        y="{BOTTOM + 20}"
+        text-anchor="middle"
+        fill="#8b949e"
+        font-size="9"
+        font-family="Arial, Helvetica, sans-serif"
+    >
+        {current_date.day}
+    </text>
+    '''
+
 
 # ============================================================
-# AREA UNDER LINE
+# AREA UNDER GRAPH
 # ============================================================
 
-if points:
+if len(points) >= 2:
 
     area_points = [
         f"{x:.2f},{y:.2f}"
@@ -488,15 +552,16 @@ if points:
     ]
 
     first_x = points[0][0]
+
     last_x = points[-1][0]
 
-    # Start at bottom-left
+    # Bottom-left
     area_points.insert(
         0,
         f"{first_x:.2f},{BOTTOM}"
     )
 
-    # End at bottom-right of the plotted data
+    # Bottom-right
     area_points.append(
         f"{last_x:.2f},{BOTTOM}"
     )
@@ -511,10 +576,10 @@ if points:
 
 
 # ============================================================
-# MAIN GREEN LINE
+# GREEN CONTRIBUTION LINE
 # ============================================================
 
-if points:
+if len(points) >= 2:
 
     line_points = " ".join(
         f"{x:.2f},{y:.2f}"
@@ -537,7 +602,12 @@ if points:
 # DATA POINTS
 # ============================================================
 
-for x, y, count, contribution_date in points:
+for (
+    x,
+    y,
+    count,
+    contribution_date
+) in points:
 
     date_text = contribution_date.strftime(
         "%b %d"
@@ -562,35 +632,6 @@ for x, y, count, contribution_date in points:
             {escape(date_text)}: {count} {contribution_word}
         </title>
     </circle>
-    '''
-
-
-# ============================================================
-# X-AXIS DATE LABELS
-# ============================================================
-
-for index in label_indices:
-
-    x = x_position(index)
-
-    current_date = dates[index]
-
-    label = (
-        f"{current_date.strftime('%b')} "
-        f"{current_date.day}"
-    )
-
-    svg += f'''
-    <text
-        x="{x:.2f}"
-        y="{BOTTOM + 22}"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-size="11"
-        font-family="Arial, Helvetica, sans-serif"
-    >
-        {escape(label)}
-    </text>
     '''
 
 
@@ -646,32 +687,49 @@ with open(
 
 
 # ============================================================
-# GITHUB ACTION LOG
+# ACTIONS LOG
 # ============================================================
 
-print("========================================")
+print("==========================================")
 print("Contribution graph generated successfully")
-print("========================================")
+print("==========================================")
 
 print(f"User: {GITHUB_USERNAME}")
-print(f"Month: {month_name} {year}")
+
 print(
-    f"Total contributions: "
+    f"Month: {month_name} {year}"
+)
+
+print(
+    f"Total contributions so far: "
     f"{total_contributions}"
 )
+
 print(
-    f"Days plotted: "
+    f"Days in month: "
     f"{len(dates)}"
 )
+
 print(
-    f"Maximum daily contributions: "
+    f"Days with data: "
+    f"{len(points)}"
+)
+
+print(
+    f"Highest daily contributions: "
     f"{max_count}"
 )
+
 print(
     f"Y-axis maximum: "
     f"{y_max}"
 )
+
 print(
-    f"Output: "
-    f"{OUTPUT_FILE}"
+    f"Y-axis step: "
+    f"{y_step}"
+)
+
+print(
+    f"Output: {OUTPUT_FILE}"
 )
