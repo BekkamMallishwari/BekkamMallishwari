@@ -263,7 +263,8 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 
 ### 📊 GSSoC 2026 Highlights
 
-<img align="right" width="300" alt="GSSoC 2026 Achievements" src="https://drive.google.com/file/d/1jDsBPpB3W0IdQ0ouje8CHdfE64A1yIDc/view?usp=share_link" />
+<img align="right" width="300" alt="GSSoC 2026 Achievements" src="<img width="1019" height="756" alt="Screenshot 2026-09-25 at 9 45 05 PM" src="https://github.com/user-attachments/assets/44401470-59fb-463e-9817-2e2b685a9204" />
+" />
 
 | Achievement | Result |
 |---|---:|
