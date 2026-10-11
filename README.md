@@ -260,30 +260,6 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 
 ---
 
-<h3>📊 GSSoC 2026 Highlights</h3>
-
-<table>
-  <tr>
-    <td width="55%" valign="top">
-
-| Achievement | Result |
-|---|---:|
-| 🌍 Global Rank | **#1,326** |
-| 🏆 Leaderboard | **Top 3%** |
-| ⭐ Total Points | **1,262** |
-| 🔀 PRs Merged | **6** |
-| 📦 Projects Contributed | **3** |
-| 🏅 Badges Earned | **10** |
-| 🎯 Contributor Tier | **Starter** |
-
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="images/gssoc-achievements.png" width="160" alt="GSSoC 2026 Achievements"/>
-    </td>
-  </tr>
-</table>
-
-### 🏅 GSSoC 2026 Badges
 
 
 
@@ -303,17 +279,12 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 | 🏅 Badges Earned | **10** |
 | 🎯 Contributor Tier | **Starter** |
 
-    </td>
-    <td width="45%" align="center" valign="middle">
-      <img src="Screenshot 2026-09-25 at 9 45 05 PM" width="160" alt="GSSoC 2026 Achievements"/>
-    </td>
-  </tr>
-</table>
+   
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="top" width="50%" align="center">
 
-<img src="<img width="1021" height="756" alt="Screenshot 2026-09-25 at 9 45 05 PM" src="https://github.com/user-attachments/assets/78086428-992f-4869-82cc-dbb96901a928" />
+<img src="<img width="1020" height="756" alt="Screenshot 2026-09-25 at 9 45 05 PM" src="https://github.com/user-attachments/assets/78086428-992f-4869-82cc-dbb96901a928" />
 " width="220" alt="GSSoC 2026 Achievements"/>
 
 </td>
