@@ -327,41 +327,6 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 
 ---
 
-# 🚀 Featured Projects 
-
-<table>
-<tr>
-
-<td width="50%">
-  
-# 🎓 CampusConnect
-
-**CampusConnect** is a smart campus platform that simplifies the process of reporting, finding, and recovering lost belongings. Students can report lost or found items, discover potential matches, communicate with other users, and securely verify ownership. AI-powered features help make item discovery and recovery faster and more convenient.
-
-### Key Features
-
-- 🔍 Smart Lost & Found Management
-- 🤖 AI-Assisted Item Matching
-- 🔐 Secure User Authentication
-- 💬 Real-Time Messaging & Notifications
-- 🏆 Reward & Claim Verification
-- 🖼️ Image-Based Item Reporting
-- 📱 Responsive & Modern Campus Experience
-
-
-# 🤖 AI Agent Platform
-
-**AI Agent Platform** is an intelligent assistant system that helps users automate tasks through natural-language conversations. It understands user requests, coordinates multiple AI agents, connects with external tools, and executes multi-step workflows. The platform transforms complex tasks into simple conversational interactions.
-
-### Key Features
-
-- 🤖 Multi-Agent Task Execution
-- 💬 Natural-Language AI Conversations
-- ⚙️ Automated Multi-Step Workflows
-- 🔗 Tool & API Integrations
-- 🧠 Context-Aware Responses
-- 🚀 Intelligent Task Automation
-- 📊 Interactive AI Dashboard
 
 # 🌐 Connect & Collaborate
 
