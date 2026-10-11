@@ -262,6 +262,8 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 
 # 🏆 GSSoC 2026 — Open Source Achievements
 
+<img align="right" width="300" alt="GSSoC 2026 Achievements" src="https://drive.google.com/uc?export=view&id=1jDsBPpB3W0IdQ0ouje8CHdfE64A1yIDc" />
+
 Selected as a **GSSoC 2026 Contributor** and actively contributed to open-source projects across multiple repositories.
 
 ### 📊 GSSoC 2026 Highlights
