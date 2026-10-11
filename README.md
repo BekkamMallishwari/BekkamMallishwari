@@ -260,6 +260,31 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 
 ---
 
+<h3>📊 GSSoC 2026 Highlights</h3>
+
+<table>
+  <tr>
+    <td width="55%" valign="top">
+
+| Achievement | Result |
+|---|---:|
+| 🌍 Global Rank | **#1,326** |
+| 🏆 Leaderboard | **Top 3%** |
+| ⭐ Total Points | **1,262** |
+| 🔀 PRs Merged | **6** |
+| 📦 Projects Contributed | **3** |
+| 🏅 Badges Earned | **10** |
+| 🎯 Contributor Tier | **Starter** |
+
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="images/gssoc-achievements.png" width="160" alt="GSSoC 2026 Achievements"/>
+    </td>
+  </tr>
+</table>
+
+### 🏅 GSSoC 2026 Badges
+
 
 
 <h3>📊 GSSoC 2026 Highlights</h3>
@@ -277,6 +302,13 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 | 📦 Projects Contributed | **3** |
 | 🏅 Badges Earned | **10** |
 | 🎯 Contributor Tier | **Starter** |
+
+    </td>
+    <td width="45%" align="center" valign="middle">
+      <img src="Screenshot 2026-09-25 at 9 45 05 PM" width="160" alt="GSSoC 2026 Achievements"/>
+    </td>
+  </tr>
+</table>
 
 </td>
 <td valign="top" width="40%" align="center">
