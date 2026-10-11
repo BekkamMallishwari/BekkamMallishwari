@@ -260,13 +260,10 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 
 ---
 
-# 🏆 GSSoC 2026 — Open Source Achievements
-
-<img align="right" width="300" alt="GSSoC 2026 Achievements" src="https://drive.google.com/uc?export=view&id=1jDsBPpB3W0IdQ0ouje8CHdfE64A1yIDc" />
-
-Selected as a **GSSoC 2026 Contributor** and actively contributed to open-source projects across multiple repositories.
 
 ### 📊 GSSoC 2026 Highlights
+
+<img align="right" width="300" alt="GSSoC 2026 Achievements" src="https://drive.google.com/file/d/1jDsBPpB3W0IdQ0ouje8CHdfE64A1yIDc/view?usp=share_link" />
 
 | Achievement | Result |
 |---|---:|
@@ -277,7 +274,12 @@ Selected as a **GSSoC 2026 Contributor** and actively contributed to open-source
 | 📦 Projects Contributed | **3** |
 | 🏅 Badges Earned | **10** |
 | 🎯 Contributor Tier | **Starter** |
-<h3>🏅 GSSoC 2026 Badges</h3>
+
+<br clear="right"/>
+
+### 🏅 GSSoC 2026 Badges
+
+<
 
 <p align="center">
   <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/role_contributor.png" width="140" alt="Contributor"></a>
