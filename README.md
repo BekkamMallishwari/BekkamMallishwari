@@ -216,10 +216,11 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
         <tr><td>🎯 Contributor Tier</td><td><b>Starter</b></td></tr>
       </table>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <img src="<img width="1019" height="756" alt="Screenshot 2026-09-25 at 9 45 05 PM" src="https://github.com/user-attachments/assets/a60f9eed-51bd-4c41-8c1d-586ebd6d8533" />
+   
+<td width="50%" align="center" valign="middle">
+  <img src="<img width="1019" height="756" alt="Screenshot 2026-09-25 at 9 45 05 PM" src="https://github.com/user-attachments/assets/13471696-3c90-4659-8a39-0ff6bac71b40" />
 " width="350" alt="GSSoC 2026 Achievements" />
-    </td>
+</td>
   </tr>
 </table>
 
