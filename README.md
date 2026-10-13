@@ -272,7 +272,7 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 
 <p align="center">
   
-  <img src="<img width="1428" height="820" alt="Screenshot 2026-08-17 at 10 10 10 PM" src="https://github.com/user-attachments/assets/d245add6-8ef5-4e70-b412-27e8e01db087" />
+  <img src="<img width="1000" height="500" alt="Screenshot 2026-08-17 at 10 10 10 PM" src="https://github.com/user-attachments/assets/d245add6-8ef5-4e70-b412-27e8e01db087" />
 " width="520" alt="SSoC 2026 achievement" />
 </p>
 
