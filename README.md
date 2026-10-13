@@ -134,30 +134,6 @@
 </p>
 ---
 
-## 🔮 Language Ecosystem Breakdown
-
-### Core Development Areas
-
-- ⚛️ React & Next.js
-- 🟢 Node.js & Express
-- 🐍 Python & FastAPI
-- 🗄️ MongoDB & PostgreSQL
-- ☁️ Cloud & Deployment
-
-📄 Focused on building scalable full-stack applications, AI-powered solutions, and open-source contributions.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-
----
-
-
 # 🎮 Contribution Matrix
 
 <p align="center">
