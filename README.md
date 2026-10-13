@@ -271,12 +271,12 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 - 📈 **Top:** 95th percentile
 
 <p align="center">
-  
-  <img src="<img width="1000" height="500" alt="Screenshot 2026-08-17 at 10 10 10 PM" src="https://github.com/user-attachments/assets/d245add6-8ef5-4e70-b412-27e8e01db087" />
-" width="520" alt="SSoC 2026 achievement" />
+  <img
+    src="https://github.com/user-attachments/assets/d245add6-8ef5-4e70-b412-27e8e01db087"
+    width="520"
+    alt="SSoC 2026 Achievement"
+  />
 </p>
-
-[View my GitHub profile](https://github.com/BekkamMallishwari)
 
 ---
 ---
