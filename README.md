@@ -217,8 +217,9 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
       </table>
     </td>
    
+   
 <td width="50%" align="center" valign="middle">
-  <img src="<img width="1019" height="756" alt="Screenshot 2026-09-25 at 9 45 05 PM" src="https://github.com/user-attachments/assets/13471696-3c90-4659-8a39-0ff6bac71b40" />
+  <img src="<img width="2038" height="1512" alt="image" src="https://github.com/user-attachments/assets/7737104b-3166-4bd4-8d67-31cb35f03bdf" />
 " width="350" alt="GSSoC 2026 Achievements" />
 </td>
   </tr>
