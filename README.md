@@ -199,7 +199,6 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 
 ---
 
-
 <h2>📊 GSSoC 2026 Highlights</h2>
 
 <table>
@@ -216,18 +215,13 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
         <tr><td>🎯 Contributor Tier</td><td><b>Starter</b></td></tr>
       </table>
     </td>
-   
-   
-<td width="50%" align="center" valign="middle">
-  <img src="<img width="2038" height="1512" alt="image" src="https://github.com/user-attachments/assets/7737104b-3166-4bd4-8d67-31cb35f03bdf" />
-" width="350" alt="GSSoC 2026 Achievements" />
-</td>
+    <td width="50%" align="center" valign="middle">
+      <img src="https://github.com/user-attachments/assets/7737104b-3166-4bd4-8d67-31cb35f03bdf" width="350" alt="GSSoC 2026 Achievements" />
+    </td>
   </tr>
 </table>
 
----
 
-### 🏅 GSSoC 2026 Badges
 ---
 
 ### 🏅 GSSoC 2026 Badges
