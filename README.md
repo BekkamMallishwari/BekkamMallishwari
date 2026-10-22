@@ -239,6 +239,7 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
   <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/discord_verified.png" width="140" alt="Discord Verified"></a>
   <a href="https://gssoc.girlscript.org/profile/0032949c-a819-43ce-b7ee-4112688236ad"><img src="https://gssoc.girlscript.org/badges/milestone/bounty_hunter.png" width="140" alt="Bounty Hunter"></a>
 </p>
+
 ### 🚀 Open Source Impact
 
 - 🔀 **6 Pull Requests merged**
