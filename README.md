@@ -224,7 +224,6 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 
 ---
 
-
 ### 🏅 GSSoC 2026 Badges
 
 <
