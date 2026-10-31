@@ -42,7 +42,7 @@
     font-size="12"
     font-family="Arial, Helvetica, sans-serif"
 >
-    October 2026 • 92 contributions
+    November 2026 • 0 contributions
 </text>
 
 
@@ -97,7 +97,7 @@
         font-size="11"
         font-family="Arial, Helvetica, sans-serif"
     >
-        4
+        1
     </text>
     
     <line
@@ -117,7 +117,7 @@
         font-size="11"
         font-family="Arial, Helvetica, sans-serif"
     >
-        8
+        2
     </text>
     
     <line
@@ -137,7 +137,7 @@
         font-size="11"
         font-family="Arial, Helvetica, sans-serif"
     >
-        12
+        3
     </text>
     
     <line
@@ -157,7 +157,7 @@
         font-size="11"
         font-family="Arial, Helvetica, sans-serif"
     >
-        16
+        4
     </text>
     
     <line
@@ -177,7 +177,7 @@
         font-size="11"
         font-family="Arial, Helvetica, sans-serif"
     >
-        20
+        5
     </text>
     
     <line
@@ -201,16 +201,16 @@
     </text>
     
     <line
-        x1="112.67"
+        x1="113.79"
         y1="75"
-        x2="112.67"
+        x2="113.79"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="112.67"
+        x="113.79"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -221,16 +221,16 @@
     </text>
     
     <line
-        x1="145.33"
+        x1="147.59"
         y1="75"
-        x2="145.33"
+        x2="147.59"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="145.33"
+        x="147.59"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -241,16 +241,16 @@
     </text>
     
     <line
-        x1="178.00"
+        x1="181.38"
         y1="75"
-        x2="178.00"
+        x2="181.38"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="178.00"
+        x="181.38"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -261,16 +261,16 @@
     </text>
     
     <line
-        x1="210.67"
+        x1="215.17"
         y1="75"
-        x2="210.67"
+        x2="215.17"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="210.67"
+        x="215.17"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -281,16 +281,16 @@
     </text>
     
     <line
-        x1="243.33"
+        x1="248.97"
         y1="75"
-        x2="243.33"
+        x2="248.97"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="243.33"
+        x="248.97"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -301,16 +301,16 @@
     </text>
     
     <line
-        x1="276.00"
+        x1="282.76"
         y1="75"
-        x2="276.00"
+        x2="282.76"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="276.00"
+        x="282.76"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -321,16 +321,16 @@
     </text>
     
     <line
-        x1="308.67"
+        x1="316.55"
         y1="75"
-        x2="308.67"
+        x2="316.55"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="308.67"
+        x="316.55"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -341,16 +341,16 @@
     </text>
     
     <line
-        x1="341.33"
+        x1="350.34"
         y1="75"
-        x2="341.33"
+        x2="350.34"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="341.33"
+        x="350.34"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -361,16 +361,16 @@
     </text>
     
     <line
-        x1="374.00"
+        x1="384.14"
         y1="75"
-        x2="374.00"
+        x2="384.14"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="374.00"
+        x="384.14"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -381,16 +381,16 @@
     </text>
     
     <line
-        x1="406.67"
+        x1="417.93"
         y1="75"
-        x2="406.67"
+        x2="417.93"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="406.67"
+        x="417.93"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -401,16 +401,16 @@
     </text>
     
     <line
-        x1="439.33"
+        x1="451.72"
         y1="75"
-        x2="439.33"
+        x2="451.72"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="439.33"
+        x="451.72"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -421,16 +421,16 @@
     </text>
     
     <line
-        x1="472.00"
+        x1="485.52"
         y1="75"
-        x2="472.00"
+        x2="485.52"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="472.00"
+        x="485.52"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -441,16 +441,16 @@
     </text>
     
     <line
-        x1="504.67"
+        x1="519.31"
         y1="75"
-        x2="504.67"
+        x2="519.31"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="504.67"
+        x="519.31"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -461,16 +461,16 @@
     </text>
     
     <line
-        x1="537.33"
+        x1="553.10"
         y1="75"
-        x2="537.33"
+        x2="553.10"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="537.33"
+        x="553.10"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -481,16 +481,16 @@
     </text>
     
     <line
-        x1="570.00"
+        x1="586.90"
         y1="75"
-        x2="570.00"
+        x2="586.90"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="570.00"
+        x="586.90"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -501,16 +501,16 @@
     </text>
     
     <line
-        x1="602.67"
+        x1="620.69"
         y1="75"
-        x2="602.67"
+        x2="620.69"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="602.67"
+        x="620.69"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -521,16 +521,16 @@
     </text>
     
     <line
-        x1="635.33"
+        x1="654.48"
         y1="75"
-        x2="635.33"
+        x2="654.48"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="635.33"
+        x="654.48"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -541,16 +541,16 @@
     </text>
     
     <line
-        x1="668.00"
+        x1="688.28"
         y1="75"
-        x2="668.00"
+        x2="688.28"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="668.00"
+        x="688.28"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -561,16 +561,16 @@
     </text>
     
     <line
-        x1="700.67"
+        x1="722.07"
         y1="75"
-        x2="700.67"
+        x2="722.07"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="700.67"
+        x="722.07"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -581,16 +581,16 @@
     </text>
     
     <line
-        x1="733.33"
+        x1="755.86"
         y1="75"
-        x2="733.33"
+        x2="755.86"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="733.33"
+        x="755.86"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -601,16 +601,16 @@
     </text>
     
     <line
-        x1="766.00"
+        x1="789.66"
         y1="75"
-        x2="766.00"
+        x2="789.66"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="766.00"
+        x="789.66"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -621,16 +621,16 @@
     </text>
     
     <line
-        x1="798.67"
+        x1="823.45"
         y1="75"
-        x2="798.67"
+        x2="823.45"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="798.67"
+        x="823.45"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -641,16 +641,16 @@
     </text>
     
     <line
-        x1="831.33"
+        x1="857.24"
         y1="75"
-        x2="831.33"
+        x2="857.24"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="831.33"
+        x="857.24"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -661,16 +661,16 @@
     </text>
     
     <line
-        x1="864.00"
+        x1="891.03"
         y1="75"
-        x2="864.00"
+        x2="891.03"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="864.00"
+        x="891.03"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -681,16 +681,16 @@
     </text>
     
     <line
-        x1="896.67"
+        x1="924.83"
         y1="75"
-        x2="896.67"
+        x2="924.83"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="896.67"
+        x="924.83"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -701,16 +701,16 @@
     </text>
     
     <line
-        x1="929.33"
+        x1="958.62"
         y1="75"
-        x2="929.33"
+        x2="958.62"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="929.33"
+        x="958.62"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -721,16 +721,16 @@
     </text>
     
     <line
-        x1="962.00"
+        x1="992.41"
         y1="75"
-        x2="962.00"
+        x2="992.41"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="962.00"
+        x="992.41"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -741,16 +741,16 @@
     </text>
     
     <line
-        x1="994.67"
+        x1="1026.21"
         y1="75"
-        x2="994.67"
+        x2="1026.21"
         y2="365"
         stroke="#21262d"
         stroke-width="1"
     />
     
     <text
-        x="994.67"
+        x="1026.21"
         y="385"
         text-anchor="middle"
         fill="#8b949e"
@@ -758,26 +758,6 @@
         font-family="Arial, Helvetica, sans-serif"
     >
         29
-    </text>
-    
-    <line
-        x1="1027.33"
-        y1="75"
-        x2="1027.33"
-        y2="365"
-        stroke="#21262d"
-        stroke-width="1"
-    />
-    
-    <text
-        x="1027.33"
-        y="385"
-        text-anchor="middle"
-        fill="#8b949e"
-        font-size="9"
-        font-family="Arial, Helvetica, sans-serif"
-    >
-        30
     </text>
     
     <line
@@ -797,39 +777,11 @@
         font-size="9"
         font-family="Arial, Helvetica, sans-serif"
     >
-        31
+        30
     </text>
-    
-    <polygon
-        points="80.00,365 80.00,220.00 112.67,365.00 145.33,321.50 178.00,292.50 210.67,263.50 243.33,191.00 276.00,336.00 308.67,292.50 341.33,263.50 374.00,336.00 406.67,147.50 439.33,336.00 472.00,307.00 504.67,365.00 537.33,365.00 570.00,321.50 602.67,365.00 635.33,365.00 668.00,365.00 700.67,365.00 733.33,365.00 766.00,321.50 798.67,365.00 831.33,365.00 864.00,365.00 896.67,350.50 929.33,336.00 962.00,365.00 994.67,336.00 1027.33,263.50 1060.00,365.00 1060.00,365"
-        fill="#238636"
-        fill-opacity="0.25"
-    />
-    
-    <polyline
-        points="80.00,220.00 112.67,365.00 145.33,321.50 178.00,292.50 210.67,263.50 243.33,191.00 276.00,336.00 308.67,292.50 341.33,263.50 374.00,336.00 406.67,147.50 439.33,336.00 472.00,307.00 504.67,365.00 537.33,365.00 570.00,321.50 602.67,365.00 635.33,365.00 668.00,365.00 700.67,365.00 733.33,365.00 766.00,321.50 798.67,365.00 831.33,365.00 864.00,365.00 896.67,350.50 929.33,336.00 962.00,365.00 994.67,336.00 1027.33,263.50 1060.00,365.00"
-        fill="none"
-        stroke="#39d353"
-        stroke-width="3"
-        stroke-linejoin="round"
-        stroke-linecap="round"
-    />
     
     <circle
         cx="80.00"
-        cy="220.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 01: 10 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="112.67"
         cy="365.00"
         r="4"
         fill="#39d353"
@@ -837,384 +789,7 @@
         stroke-width="2"
     >
         <title>
-            Oct 02: 0 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="145.33"
-        cy="321.50"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 03: 3 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="178.00"
-        cy="292.50"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 04: 5 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="210.67"
-        cy="263.50"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 05: 7 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="243.33"
-        cy="191.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 06: 12 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="276.00"
-        cy="336.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 07: 2 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="308.67"
-        cy="292.50"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 08: 5 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="341.33"
-        cy="263.50"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 09: 7 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="374.00"
-        cy="336.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 10: 2 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="406.67"
-        cy="147.50"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 11: 15 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="439.33"
-        cy="336.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 12: 2 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="472.00"
-        cy="307.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 13: 4 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="504.67"
-        cy="365.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 14: 0 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="537.33"
-        cy="365.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 15: 0 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="570.00"
-        cy="321.50"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 16: 3 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="602.67"
-        cy="365.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 17: 0 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="635.33"
-        cy="365.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 18: 0 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="668.00"
-        cy="365.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 19: 0 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="700.67"
-        cy="365.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 20: 0 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="733.33"
-        cy="365.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 21: 0 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="766.00"
-        cy="321.50"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 22: 3 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="798.67"
-        cy="365.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 23: 0 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="831.33"
-        cy="365.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 24: 0 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="864.00"
-        cy="365.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 25: 0 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="896.67"
-        cy="350.50"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 26: 1 contribution
-        </title>
-    </circle>
-    
-    <circle
-        cx="929.33"
-        cy="336.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 27: 2 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="962.00"
-        cy="365.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 28: 0 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="994.67"
-        cy="336.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 29: 2 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="1027.33"
-        cy="263.50"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 30: 7 contributions
-        </title>
-    </circle>
-    
-    <circle
-        cx="1060.00"
-        cy="365.00"
-        r="4"
-        fill="#39d353"
-        stroke="#0d1117"
-        stroke-width="2"
-    >
-        <title>
-            Oct 31: 0 contributions
+            Nov 01: 0 contributions
         </title>
     </circle>
     
