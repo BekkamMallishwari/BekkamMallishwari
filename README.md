@@ -1,6 +1,5 @@
 
 # 👋 Hi, I'm Bekkam Mallishwari
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;IoT+Innovator;B.Tech+IT+Student;Building+Scalable+Digital+Solutions" />
 </p>
