@@ -1,34 +1,42 @@
 
 # 👋 Hi, I'm Bekkam Mallishwari
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;IoT+Innovator;B.Tech+IT+Student;Building+Scalable+Digital+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;B.Tech+IT+Student" />
 </p>
 
 ---
 
-# 🚀 Mission Control
+# 🚀 About Me
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-### 🎓 Academic Profile
-
-- 🎓 B.Tech Information Technology (3rd Year)
-- 💻 Passionate about Full-Stack Development
-- 🤖 Exploring Artificial Intelligence & Generative AI
-- 📡 Building IoT-Powered Smart Systems
+### 👩‍💻 About Me
+- 🎓 B.Tech IT Student (3rd Year)
+- 💻 Full-Stack Developer
+- 🤖 Exploring AI & Generative AI
 - 🌱 Open Source Contributor
-- 🚀 Lifelong Learner
 
-### 🔥 Current Objectives
+</td>
+<td width="40%" valign="top">
 
-- Designing Scalable Full-Stack Applications
-- Building AI-Powered Products
-- Exploring Cloud Technologies
-- Contributing to Open Source
-- Learning System Design
-- Developing Real-World IoT Solutions
+### 📚 Currently Learning
+- System Design
+- Cloud Technologies
+- AI-Powered Applications
 
-<br clear="right"/>
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding"/>
+</p>
+
+---
+
 
 ---
 
