@@ -107,32 +107,37 @@
 </tr>
 </table>
 
+---
 
-### 📊 GitHub Statistics
+# 📡 04 / GITHUB TELEMETRY
 
-<img src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="25%" />
+*A snapshot of the work happening behind the scenes.*
 
-</td>
-<td width="20%" align="center">
-
-### 💻 Most Used Languages
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=radical&hide_border=true" width="25%" />
-
-</td>
-</tr>
-
+<table width="100%" align="center">
 <tr>
-<td width="20%" align="center">
+<td width="50%" valign="top" align="center">
 
-### 🔥 Contribution Streak
+<h3>📊 GitHub Statistics</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="100%" />
+
+<br/>
+
+<h3>🔥 Contribution Streak</h3>
 
 <img src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=radical&hide_border=true" width="100%" />
 
 </td>
-<td width="50%" align="center">
 
-### 📈 Contribution Activity
+<td width="50%" valign="top" align="center">
+
+<h3>💻 Most Used Languages</h3>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="100%" />
+
+<br/>
+
+<h3>📈 Contribution Activity</h3>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
