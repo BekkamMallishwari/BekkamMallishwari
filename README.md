@@ -1,13 +1,15 @@
+# 👋 Hi, I'm Bekkam Mallishwari
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;B.Tech+IT+Student" />
+</p>
+
+---
 
 # 🚀 About Me
 
 <table width="100%" border="0">
 <tr>
-<td width="35%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="320" alt="Coding"/>
-
-</td>
 <td width="35%" valign="top">
 
 ### 👩‍💻 About Me
@@ -23,6 +25,11 @@
 - System Design
 - Cloud Technologies
 - AI-Powered Applications
+
+</td>
+<td width="35%" align="center" valign="middle">
+
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300" alt="Coding"/>
 
 </td>
 </tr>
