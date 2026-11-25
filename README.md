@@ -107,30 +107,39 @@
 </tr>
 </table>
 
----
 
-## 🔥 GitHub Streak
+### 📊 GitHub Statistics
 
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="100%" />
 
-<img
-  src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=tokyonight&hide_border=true"
-  alt="GitHub Streak"
-/>
+</td>
+<td width="50%" align="center">
 
-</div>
+### 💻 Most Used Languages
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=radical&hide_border=true" width="100%" />
 
-## 📈 Contribution Graph
+</td>
+</tr>
 
-<p align="center">
-  <img
-    src="github-metrics.svg"
-    alt="Mallishwari's GitHub Contribution Graph"
-    width="100%"
-  />
-</p>
+<tr>
+<td width="50%" align="center">
+
+### 🔥 Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=BekkamMallishwari&theme=radical&hide_border=true" width="100%" />
+
+</td>
+<td width="50%" align="center">
+
+### 📈 Contribution Activity
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BekkamMallishwari&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 # 🎮 Contribution Matrix
