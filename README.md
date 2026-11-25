@@ -110,20 +110,20 @@
 
 ### 📊 GitHub Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api?username=BekkamMallishwari&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" width="25%" />
 
 </td>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 💻 Most Used Languages
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=radical&hide_border=true" width="50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BekkamMallishwari&layout=compact&theme=radical&hide_border=true" width="25%" />
 
 </td>
 </tr>
 
 <tr>
-<td width="25%" align="center">
+<td width="20%" align="center">
 
 ### 🔥 Contribution Streak
 
