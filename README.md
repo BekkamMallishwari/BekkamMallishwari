@@ -294,7 +294,6 @@ Successfully contributed a user-facing feature that was merged, reviewed, and sh
 </p>
 
 ---
----
 
 # 🌐 Connect & Collaborate
 
