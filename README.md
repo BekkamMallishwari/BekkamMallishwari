@@ -160,9 +160,7 @@
 <img src="https://raw.githubusercontent.com/BekkamMallishwari/BekkamMallishwari/output/pacman-contribution-graph-dark.svg" />
 </p>
 
-
 ---
-
 
 # 🏅 Microsoft Learn Achievements
 
