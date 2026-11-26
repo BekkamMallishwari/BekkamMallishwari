@@ -334,6 +334,7 @@ Visit Website
 
 </tr>
 </table>
+
 ___
 
 # 💡 Developer Philosophy
